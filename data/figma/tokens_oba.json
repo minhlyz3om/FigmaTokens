@@ -1,6 +1,6 @@
 {
   "base": {
-    "brand": {
+    "oba2-brand": {
       "primary": {
         "value": "#d8102e",
         "type": "color"
@@ -14,7 +14,7 @@
         "type": "color"
       }
     },
-    "static": {
+    "oba2-static": {
       "black": {
         "value": "#000000",
         "type": "color"
