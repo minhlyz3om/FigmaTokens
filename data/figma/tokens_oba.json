@@ -1,6 +1,6 @@
 {
   "base": {
-    "oba2-global": {
+    "oba2-global-color": {
       "brand": {
         "primary": {
           "value": "#d8102e",
@@ -29,10 +29,20 @@
           "type": "color"
         }
       }
+    },
+    "oba2-global-type": {
+      "primary": {
+        "value": "Noto Sans JP",
+        "type": "fontFamilies"
+      },
+      "secondary": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
     }
   },
   "light": {
-    "oba2-global": {
+    "oba2-global-color": {
       "gray": {
         "50": {
           "value": "#ffffff",
@@ -234,7 +244,7 @@
         }
       }
     },
-    "oba2-alias": {
+    "oba2-alias-color": {
       "background": {
         "primary": {
           "value": "{oba2-global.gray.50}",
@@ -326,7 +336,7 @@
         }
       }
     },
-    "oba2-comp": {
+    "oba2-comp-color": {
       "cta-button-background": {
         "active": {
           "value": "{oba2-alias.cta-background.active}",
@@ -368,7 +378,7 @@
     }
   },
   "dark": {
-    "oba2-global": {
+    "oba2-global-color": {
       "gray": {
         "50": {
           "value": "#1c1d20",
@@ -570,7 +580,7 @@
         }
       }
     },
-    "oba2-alias": {
+    "oba2-alias-color": {
       "background": {
         "primary": {
           "value": "{oba2-global.gray.50}",
@@ -662,7 +672,7 @@
         }
       }
     },
-    "oba2-comp": {
+    "oba2-comp-color": {
       "cta-button-background": {
         "active": {
           "value": "{oba2-alias.cta-background.active}",
