@@ -39,6 +39,18 @@
         "value": "Roboto",
         "type": "fontFamilies"
       }
+    },
+    "light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
     }
   },
   "light": {
