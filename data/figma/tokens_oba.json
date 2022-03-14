@@ -241,7 +241,17 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{oba2-global.gray.100}",
+          "value": "{oba2-global.gray.75}",
+          "type": "color"
+        }
+      },
+      "content": {
+        "default": {
+          "value": "{oba2-global.gray.900}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{oba2-global.gray.500}",
           "type": "color"
         }
       },
@@ -550,6 +560,16 @@
         },
         "secondary": {
           "value": "{oba2-global.gray.100}",
+          "type": "color"
+        }
+      },
+      "content": {
+        "default": {
+          "value": "{oba2-global.gray.900}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{oba2-global.gray.500}",
           "type": "color"
         }
       },
