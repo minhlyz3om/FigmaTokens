@@ -1,7 +1,7 @@
 {
   "base": {
-    "global-token": {
-      "oba2-brand": {
+    "oba2-global": {
+      "brand": {
         "primary": {
           "value": "#d8102e",
           "type": "color"
@@ -15,21 +15,25 @@
           "type": "color"
         }
       },
-      "oba2-static": {
-        "black": {
-          "value": "#000000",
+      "spot-color": {
+        "super-green": {
+          "value": "#00b550",
           "type": "color"
         },
-        "white": {
-          "value": "#ffffff",
+        "super-violet": {
+          "value": "#7311eb",
+          "type": "color"
+        },
+        "super-blue": {
+          "value": "#2b11eb",
           "type": "color"
         }
       }
     }
   },
   "light": {
-    "global-token": {
-      "oba2-gray": {
+    "oba2-global": {
+      "gray": {
         "50": {
           "value": "#ffffff",
           "type": "color"
@@ -79,7 +83,7 @@
           "type": "color"
         }
       },
-      "oba2-red": {
+      "red": {
         "50": {
           "value": "#ffffff",
           "type": "color"
@@ -129,7 +133,7 @@
           "type": "color"
         }
       },
-      "oba2-green": {
+      "green": {
         "50": {
           "value": "#ffffff",
           "type": "color"
@@ -179,7 +183,7 @@
           "type": "color"
         }
       },
-      "oba2-orange": {
+      "orange": {
         "50": {
           "value": "#ffffff",
           "type": "color"
@@ -230,38 +234,68 @@
         }
       }
     },
-    "alias-token": {
-      "oba2-semantic": {
+    "oba2-alias": {
+      "background": {
+        "primary": {
+          "value": "{oba2-global.gray.50}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{oba2-global.gray.100}",
+          "type": "color"
+        }
+      },
+      "cta-background": {
+        "active": {
+          "value": "{oba2-global.brand.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{oba2-global.gray.200}",
+          "type": "color"
+        }
+      },
+      "cta-content": {
+        "active": {
+          "value": "{oba2-global.gray.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{oba2-global.gray.500}",
+          "type": "color"
+        }
+      },
+      "semantic": {
         "success": {
-          "value": "{global-token.oba2-green.500}",
+          "value": "{oba2-global.green.500}",
           "type": "color"
         },
         "on-success": {
-          "value": "{global-token.oba2-green.50}",
+          "value": "{oba2-global.green.50}",
           "type": "color"
         },
         "success-container": {
-          "value": "{global-token.oba2-green.100}",
+          "value": "{oba2-global.green.100}",
           "type": "color"
         },
         "on-success-container": {
-          "value": "{global-token.oba2-green.900}",
+          "value": "{oba2-global.green.900}",
           "type": "color"
         },
         "warning": {
-          "value": "{global-token.oba2-orange.500}",
+          "value": "{oba2-global.orange.500}",
           "type": "color"
         },
         "on-warning": {
-          "value": "{global-token.oba2-orange.50}",
+          "value": "{oba2-global.orange.50}",
           "type": "color"
         },
         "warning-container": {
-          "value": "{global-token.oba2-orange.100}",
+          "value": "{oba2-global.orange.100}",
           "type": "color"
         },
         "on-warning-container": {
-          "value": "{global-token.oba2-orange.900}",
+          "value": "{oba2-global.orange.900}",
           "type": "color"
         },
         "error": {
@@ -278,6 +312,28 @@
         },
         "on-error-container": {
           "value": "#400009",
+          "type": "color"
+        }
+      }
+    },
+    "oba2-comp": {
+      "cta-button-background": {
+        "active": {
+          "value": "{oba2-alias.cta-background.active}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{oba2-alias.cta-background.disabled}",
+          "type": "color"
+        }
+      },
+      "cta-button-content": {
+        "active": {
+          "value": "{oba2-alias.cta-content.active}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{oba2-alias.cta-content.disabled}",
           "type": "color"
         }
       }
