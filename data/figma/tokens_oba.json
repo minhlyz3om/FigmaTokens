@@ -30,7 +30,7 @@
         }
       }
     },
-    "oba2-global-type": {
+    "oba2-global-fontfamily": {
       "primary": {
         "value": "Noto Sans JP",
         "type": "fontFamilies"
@@ -40,17 +40,45 @@
         "type": "fontFamilies"
       }
     },
-    "light": {
-      "value": "Light",
-      "type": "fontWeights"
+    "oba2-global-fontweight": {
+      "light": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     },
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "bold": {
-      "value": "Bold",
-      "type": "fontWeights"
+    "oba2-global-fontsize": {
+      "xs-mobile": {
+        "value": "10",
+        "type": "fontSizes"
+      },
+      "s-mobile": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "m-mobile": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "l-mobile": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "xl-mobile": {
+        "value": "36",
+        "type": "fontSizes"
+      }
     }
   },
   "light": {
