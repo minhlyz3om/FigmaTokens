@@ -275,6 +275,24 @@
           "type": "color"
         }
       },
+      "timer-indicator": {
+        "top-layer": {
+          "value": "{oba2-global.green.500}",
+          "type": "color"
+        },
+        "bottom-layer": {
+          "value": "{oba2-global.gray.300}",
+          "type": "color"
+        },
+        "primary-text": {
+          "value": "{oba2-global.gray.900}",
+          "type": "color"
+        },
+        "secondary-text": {
+          "value": "{oba2-global.gray.500}",
+          "type": "color"
+        }
+      },
       "semantic": {
         "success": {
           "value": "{oba2-global.green.500}",
@@ -589,6 +607,24 @@
           "type": "color"
         },
         "disabled": {
+          "value": "{oba2-global.gray.500}",
+          "type": "color"
+        }
+      },
+      "timer-indicator": {
+        "top-layer": {
+          "value": "{oba2-global.green.500}",
+          "type": "color"
+        },
+        "bottom-layer": {
+          "value": "{oba2-global.gray.300}",
+          "type": "color"
+        },
+        "primary-text": {
+          "value": "{oba2-global.gray.900}",
+          "type": "color"
+        },
+        "secondary-text": {
           "value": "{oba2-global.gray.500}",
           "type": "color"
         }
