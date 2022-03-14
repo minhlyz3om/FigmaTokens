@@ -78,6 +78,10 @@
       "xl-mobile": {
         "value": "36",
         "type": "fontSizes"
+      },
+      "xxl-mobile": {
+        "value": "48",
+        "type": "fontSizes"
       }
     }
   },
