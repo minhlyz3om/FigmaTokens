@@ -297,6 +297,30 @@
           "type": "color"
         }
       },
+      "function-background": {
+        "primary": {
+          "value": "{oba2-global-color.green.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{oba2-global-color.gray.300}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{oba2-global-color.gray.50}",
+          "type": "color"
+        }
+      },
+      "function-content": {
+        "primary": {
+          "value": "{oba2-global-color.gray.900}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{oba2-global-color.gray.500}",
+          "type": "color"
+        }
+      },
       "semantic": {
         "success": {
           "value": "{oba2-global-color.green.500}",
@@ -371,19 +395,19 @@
       },
       "timer-indicator": {
         "top-layer": {
-          "value": "{oba2-global-color.green.500}",
+          "value": "{oba2-alias-color.function-background.primary}",
           "type": "color"
         },
         "bottom-layer": {
-          "value": "{oba2-global-color.gray.300}",
+          "value": "{oba2-alias-color.function-background.secondary}",
           "type": "color"
         },
         "primary-text": {
-          "value": "{oba2-global-color.gray.900}",
+          "value": "{oba2-alias-color.function-content.primary}",
           "type": "color"
         },
         "secondary-text": {
-          "value": "{oba2-global-color.gray.500}",
+          "value": "{oba2-alias-color.function-content.secondary}",
           "type": "color"
         }
       }
@@ -633,6 +657,30 @@
           "type": "color"
         }
       },
+      "function-background": {
+        "primary": {
+          "value": "{oba2-global-color.green.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{oba2-global-color.gray.300}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{oba2-global-color.gray.50}",
+          "type": "color"
+        }
+      },
+      "function-content": {
+        "primary": {
+          "value": "{oba2-global-color.gray.900}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{oba2-global-color.gray.500}",
+          "type": "color"
+        }
+      },
       "semantic": {
         "success": {
           "value": "{oba2-global-color.green.500}",
@@ -707,19 +755,19 @@
       },
       "timer-indicator": {
         "top-layer": {
-          "value": "{oba2-global-color.green.500}",
+          "value": "{oba2-alias-color.function-background.primary}",
           "type": "color"
         },
         "bottom-layer": {
-          "value": "{oba2-global-color.gray.300}",
+          "value": "{oba2-alias-color.function-background.secondary}",
           "type": "color"
         },
         "primary-text": {
-          "value": "{oba2-global-color.gray.900}",
+          "value": "{oba2-alias-color.function-content.primary}",
           "type": "color"
         },
         "secondary-text": {
-          "value": "{oba2-global-color.gray.500}",
+          "value": "{oba2-alias-color.function-content.secondary}",
           "type": "color"
         }
       }
