@@ -365,6 +365,10 @@
         "secondary": {
           "value": "{oba2-global-color.gray.500}",
           "type": "color"
+        },
+        "tertiary": {
+          "value": "{oba2-global-color.gray.50}",
+          "type": "color"
         }
       },
       "semantic": {
@@ -724,6 +728,10 @@
         },
         "secondary": {
           "value": "{oba2-global-color.gray.500}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{oba2-global-color.gray.1000}",
           "type": "color"
         }
       },
