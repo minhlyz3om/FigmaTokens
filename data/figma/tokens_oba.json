@@ -695,7 +695,7 @@
       },
       "cta-content": {
         "active": {
-          "value": "{oba2-global-color.gray.50}",
+          "value": "{oba2-global-color.gray.1000}",
           "type": "color"
         },
         "disabled": {
