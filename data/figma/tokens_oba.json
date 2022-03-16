@@ -461,6 +461,19 @@
           "type": "color"
         }
       }
+    },
+    "oba2-comp-boxshadow": {
+      "timer-indicator-shadow": {
+        "value": {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba(0, 0, 0, 0.25)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
     }
   },
   "dark": {
@@ -824,6 +837,19 @@
           "value": "{oba2-alias-color.function-content.secondary}",
           "type": "color"
         }
+      }
+    },
+    "oba2-comp-boxshadow": {
+      "timer-indicator-shadow": {
+        "value": {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba(0, 0, 0, 0.25)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     }
   },
