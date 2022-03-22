@@ -129,7 +129,7 @@
     /* $oba2-alias-color.content.secondary */
     --colorOba2AliasContentSecondary: var(--colorOba2GlobalGray500);    
     /* $oba2-alias-color.cta-background.active */
-    --colorOba2AliasCtaBackgroundActive: var(--colorOba2GlobalGreen500);    
+    --colorOba2AliasCtaBackgroundActive: var(--colorOba2GlobalRed500);    
     /* $oba2-alias-color.cta-background.disabled */
     --colorOba2AliasCtaBackgroundDisabled: var(--colorOba2GlobalGray200);    
     /* $oba2-alias-color.cta-content.active */
