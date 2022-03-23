@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="oba_2_global_static_palette_brand_primary">#ffd8102e</color>
+    <color name="oba_2_global_static_palette_brand_secondary">#ff000000</color>
+    <color name="oba_2_global_static_palette_brand_tertiary">#ffffffff</color>
+
+    <color name="oba_2_global_static_palette_static_black">#ff000000</color>
+    <color name="oba_2_global_static_palette_static_white">#ffffffff</color>
+
+
+    <color name="oba_2_global_dark_palette_gray_50">#ff1c1d20</color>
+    <color name="oba_2_global_dark_palette_gray_75">#ff232326</color>
+    <color name="oba_2_global_dark_palette_gray_100">#ff2f2f32</color>
+    <color name="oba_2_global_dark_palette_gray_200">#ff3b3b3f</color>
+    <color name="oba_2_global_dark_palette_gray_300">#ff46474b</color>
+    <color name="oba_2_global_dark_palette_gray_400">#ff525358</color>
+    <color name="oba_2_global_dark_palette_gray_500">#ff75767d</color>
+    <color name="oba_2_global_dark_palette_gray_600">#ff919197</color>
+    <color name="oba_2_global_dark_palette_gray_700">#ffacadb1</color>
+    <color name="oba_2_global_dark_palette_gray_800">#ffc8c8cb</color>
+    <color name="oba_2_global_dark_palette_gray_900">#ffe3e4e5</color>
+    <color name="oba_2_global_dark_palette_gray_1000">#ffffffff</color>
+
+    <color name="oba_2_global_dark_palette_red_50">#ff000000</color>
+    <color name="oba_2_global_dark_palette_red_75">#ff43131a</color>
+    <color name="oba_2_global_dark_palette_red_100">#ff520612</color>
+    <color name="oba_2_global_dark_palette_red_200">#ff670716</color>
+    <color name="oba_2_global_dark_palette_red_300">#ff7b091a</color>
+    <color name="oba_2_global_dark_palette_red_400">#ff9a0b21</color>
+    <color name="oba_2_global_dark_palette_red_500">#ffcd0f2c</color>
+    <color name="oba_2_global_dark_palette_red_600">#ffd73f56</color>
+    <color name="oba_2_global_dark_palette_red_700">#ffe16f80</color>
+    <color name="oba_2_global_dark_palette_red_800">#ffeb9fab</color>
+    <color name="oba_2_global_dark_palette_red_900">#fff5cfd5</color>
+    <color name="oba_2_global_dark_palette_red_1000">#ffffffff</color>
+
+    <color name="oba_2_global_dark_palette_green_50">#ff000000</color>
+    <color name="oba_2_global_dark_palette_green_75">#ff152d13</color>
+    <color name="oba_2_global_dark_palette_green_100">#ff22481e</color>
+    <color name="oba_2_global_dark_palette_green_200">#ff2b5a26</color>
+    <color name="oba_2_global_dark_palette_green_300">#ff336c2e</color>
+    <color name="oba_2_global_dark_palette_green_400">#ff408739</color>
+    <color name="oba_2_global_dark_palette_green_500">#ff55b44c</color>
+    <color name="oba_2_global_dark_palette_green_600">#ff77c370</color>
+    <color name="oba_2_global_dark_palette_green_700">#ff99d294</color>
+    <color name="oba_2_global_dark_palette_green_800">#ffbbe1b7</color>
+    <color name="oba_2_global_dark_palette_green_900">#ffddf0db</color>
+    <color name="oba_2_global_dark_palette_green_1000">#ffffffff</color>
+
+    <color name="oba_2_global_dark_palette_orange_50">#ff000000</color>
+    <color name="oba_2_global_dark_palette_orange_75">#ff422008</color>
+    <color name="oba_2_global_dark_palette_orange_100">#ff6a330e</color>
+    <color name="oba_2_global_dark_palette_orange_200">#ff833f11</color>
+    <color name="oba_2_global_dark_palette_orange_300">#ff9d4c15</color>
+    <color name="oba_2_global_dark_palette_orange_400">#ffbb6226</color>
+    <color name="oba_2_global_dark_palette_orange_500">#ffec8643</color>
+    <color name="oba_2_global_dark_palette_orange_600">#fff79d60</color>
+    <color name="oba_2_global_dark_palette_orange_700">#fff9b587</color>
+    <color name="oba_2_global_dark_palette_orange_800">#fffbceb0</color>
+    <color name="oba_2_global_dark_palette_orange_900">#fffde6d7</color>
+    <color name="oba_2_global_dark_palette_orange_1000">#ffffffff</color>
+
+
+    <!-- 
+        $oba2-global-color.gray.50 
+    -->
+    <color name="oba_2_global_light_palette_gray_50">#ffffffff</color>
+    <!-- 
+        $oba2-global-color.gray.75 
+    -->
+    <color name="oba_2_global_light_palette_gray_75">#fff7f8fc</color>
+    <!-- 
+        $oba2-global-color.gray.100 
+    -->
+    <color name="oba_2_global_light_palette_gray_100">#fff0f1f9</color>
+    <!-- 
+        $oba2-global-color.gray.200 
+    -->
+    <color name="oba_2_global_light_palette_gray_200">#ffe2e3eb</color>
+    <!-- 
+        $oba2-global-color.gray.300 
+    -->
+    <color name="oba_2_global_light_palette_gray_300">#ffc5c6ce</color>
+    <!-- 
+        $oba2-global-color.gray.400 
+    -->
+    <color name="oba_2_global_light_palette_gray_400">#ffaaabb3</color>
+    <!-- 
+        $oba2-global-color.gray.500 
+    -->
+    <color name="oba_2_global_light_palette_gray_500">#ff898e97</color>
+    <!-- 
+        $oba2-global-color.gray.600 
+    -->
+    <color name="oba_2_global_light_palette_gray_600">#ff75767d</color>
+    <!-- 
+        $oba2-global-color.gray.700 
+    -->
+    <color name="oba_2_global_light_palette_gray_700">#ff585a60</color>
+    <!-- 
+        $oba2-global-color.gray.800 
+    -->
+    <color name="oba_2_global_light_palette_gray_800">#ff3c3c42</color>
+    <!-- 
+        $oba2-global-color.gray.900 
+    -->
+    <color name="oba_2_global_light_palette_gray_900">#ff1c1d20</color>
+    <!-- 
+        $oba2-global-color.gray.1000 
+    -->
+    <color name="oba_2_global_light_palette_gray_1000">#ff000000</color>
+
+    <!-- 
+        $oba2-global-color.green.50 
+    -->
+    <color name="oba_2_global_light_palette_green_50">#ffffffff</color>
+    <!-- 
+        $oba2-global-color.green.75 
+    -->
+    <color name="oba_2_global_light_palette_green_75">#ffe9fbe7</color>
+    <!-- 
+        $oba2-global-color.green.100 
+    -->
+    <color name="oba_2_global_light_palette_green_100">#ffc4fbc0</color>
+    <!-- 
+        $oba2-global-color.green.200 
+    -->
+    <color name="oba_2_global_light_palette_green_200">#ff96ee8e</color>
+    <!-- 
+        $oba2-global-color.green.300 
+    -->
+    <color name="oba_2_global_light_palette_green_300">#ff73d86b</color>
+    <!-- 
+        $oba2-global-color.green.400 
+    -->
+    <color name="oba_2_global_light_palette_green_400">#ff51c247</color>
+    <!-- 
+        $oba2-global-color.green.500 
+    -->
+    <color name="oba_2_global_light_palette_green_500">#ff2fad24</color>
+    <!-- 
+        $oba2-global-color.green.600 
+    -->
+    <color name="oba_2_global_light_palette_green_600">#ff1e8f14</color>
+    <!-- 
+        $oba2-global-color.green.700 
+    -->
+    <color name="oba_2_global_light_palette_green_700">#ff136f0b</color>
+    <!-- 
+        $oba2-global-color.green.800 
+    -->
+    <color name="oba_2_global_light_palette_green_800">#ff0d4a07</color>
+    <!-- 
+        $oba2-global-color.green.900 
+    -->
+    <color name="oba_2_global_light_palette_green_900">#ff032700</color>
+    <!-- 
+        $oba2-global-color.green.1000 
+    -->
+    <color name="oba_2_global_light_palette_green_1000">#ff000000</color>
+
+    <!-- 
+        $oba2-global-color.red.50 
+    -->
+    <color name="oba_2_global_light_palette_red_50">#ffffffff</color>
+    <!-- 
+        $oba2-global-color.red.75 
+    -->
+    <color name="oba_2_global_light_palette_red_75">#fffff2f4</color>
+    <!-- 
+        $oba2-global-color.red.100 
+    -->
+    <color name="oba_2_global_light_palette_red_100">#ffffcbd3</color>
+    <!-- 
+        $oba2-global-color.red.200 
+    -->
+    <color name="oba_2_global_light_palette_red_200">#ffff98a7</color>
+    <!-- 
+        $oba2-global-color.red.300 
+    -->
+    <color name="oba_2_global_light_palette_red_300">#ffff657c</color>
+    <!-- 
+        $oba2-global-color.red.400 
+    -->
+    <color name="oba_2_global_light_palette_red_400">#fffb3351</color>
+    <!-- 
+        $oba2-global-color.red.500 
+    -->
+    <color name="oba_2_global_light_palette_red_500">#ffd8102e</color>
+    <!-- 
+        $oba2-global-color.red.600 
+    -->
+    <color name="oba_2_global_light_palette_red_600">#ffc8001e</color>
+    <!-- 
+        $oba2-global-color.red.700 
+    -->
+    <color name="oba_2_global_light_palette_red_700">#ff980017</color>
+    <!-- 
+        $oba2-global-color.red.800 
+    -->
+    <color name="oba_2_global_light_palette_red_800">#ff63000f</color>
+    <!-- 
+        $oba2-global-color.red.900 
+    -->
+    <color name="oba_2_global_light_palette_red_900">#ff310007</color>
+    <!-- 
+        $oba2-global-color.red.1000 
+    -->
+    <color name="oba_2_global_light_palette_red_1000">#ff000000</color>
+
+    <!-- 
+        $oba2-global-color.orange.50 
+    -->
+    <color name="oba_2_global_light_palette_orange_50">#ffffffff</color>
+    <!-- 
+        $oba2-global-color.orange.75 
+    -->
+    <color name="oba_2_global_light_palette_orange_75">#fffff2e9</color>
+    <!-- 
+        $oba2-global-color.orange.100 
+    -->
+    <color name="oba_2_global_light_palette_orange_100">#ffffdfcb</color>
+    <!-- 
+        $oba2-global-color.orange.200 
+    -->
+    <color name="oba_2_global_light_palette_orange_200">#ffffbf94</color>
+    <!-- 
+        $oba2-global-color.orange.300 
+    -->
+    <color name="oba_2_global_light_palette_orange_300">#ffff9f60</color>
+    <!-- 
+        $oba2-global-color.orange.400 
+    -->
+    <color name="oba_2_global_light_palette_orange_400">#ffff7e2a</color>
+    <!-- 
+        $oba2-global-color.orange.500 
+    -->
+    <color name="oba_2_global_light_palette_orange_500">#fff36203</color>
+    <!-- 
+        $oba2-global-color.orange.600 
+    -->
+    <color name="oba_2_global_light_palette_orange_600">#ffc44d00</color>
+    <!-- 
+        $oba2-global-color.orange.700 
+    -->
+    <color name="oba_2_global_light_palette_orange_700">#ff943a00</color>
+    <!-- 
+        $oba2-global-color.orange.800 
+    -->
+    <color name="oba_2_global_light_palette_orange_800">#ff622700</color>
+    <!-- 
+        $oba2-global-color.orange.900 
+    -->
+    <color name="oba_2_global_light_palette_orange_900">#ff321400</color>
+    <!-- 
+        $oba2-global-color.orange.1000 
+    -->
+    <color name="oba_2_global_light_palette_orange_1000">#ff000000</color>
+
+
+    <color name="oba_2_alias_dark_semantic_palette_success">#ff99d294</color>
+    <color name="oba_2_alias_dark_semantic_palette_on_success">#ff000000</color>
+    <color name="oba_2_alias_dark_semantic_palette_success_container">#ff22481e</color>
+    <color name="oba_2_alias_dark_semantic_palette_on_success_container">#ffddf0db</color>
+    <color name="oba_2_alias_dark_semantic_palette_warning">#fff9b587</color>
+    <color name="oba_2_alias_dark_semantic_palette_on_warning">#ff000000</color>
+    <color name="oba_2_alias_dark_semantic_palette_warning_container">#ff6a330e</color>
+    <color name="oba_2_alias_dark_semantic_palette_on_warning_container">#fffde6d7</color>
+    <color name="oba_2_alias_dark_semantic_palette_error">#fffe5971</color>
+    <color name="oba_2_alias_dark_semantic_palette_on_error">#ff000000</color>
+    <color name="oba_2_alias_dark_semantic_palette_error_container">#ff7e0011</color>
+    <color name="oba_2_alias_dark_semantic_palette_on_error_container">#ffffd2d8</color>
+
+    <color name="oba_2_alias_light_semantic_palette_success">#ff2fad24</color>
+    <color name="oba_2_alias_light_semantic_palette_on_success">#ffffffff</color>
+    <color name="oba_2_alias_light_semantic_palette_success_container">#ffc4fbc0</color>
+    <color name="oba_2_alias_light_semantic_palette_on_success_container">#ff032700</color>
+    <color name="oba_2_alias_light_semantic_palette_warning">#ffec8643</color>
+    <color name="oba_2_alias_light_semantic_palette_on_warning">#ffffffff</color>
+    <color name="oba_2_alias_light_semantic_palette_warning_container">#ffffdfcb</color>
+    <color name="oba_2_alias_light_semantic_palette_on_warning_container">#ff321400</color>
+    <color name="oba_2_alias_light_semantic_palette_error">#fffe1c3b</color>
+    <color name="oba_2_alias_light_semantic_palette_on_error">#ffffffff</color>
+    <color name="oba_2_alias_light_semantic_palette_error_container">#ffffd2d8</color>
+    <color name="oba_2_alias_light_semantic_palette_on_error_container">#ff400009</color>
+
+
+</resources>
