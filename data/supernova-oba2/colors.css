@@ -173,4 +173,20 @@
     --colorOba2AliasLightSemanticPaletteOnWarning: var(--colorOba2GlobalLightPaletteOrange50);    
     --colorOba2AliasLightSemanticPaletteWarningContainer: var(--colorOba2GlobalLightPaletteOrange100);    
     --colorOba2AliasLightSemanticPaletteOnWarningContainer: var(--colorOba2GlobalLightPaletteOrange900);    
+    --colorOba2AliasDarkBackgroundPalettePrimary: var(--colorOba2GlobalDarkPaletteGray50);    
+    --colorOba2AliasDarkBackgroundPaletteSecondary: var(--colorOba2GlobalDarkPaletteGray200);    
+    --colorOba2AliasLightBackgroundPalettePrimary: var(--colorOba2GlobalLightPaletteGray50);    
+    --colorOba2AliasLightBackgroundPaletteSecondary: var(--colorOba2GlobalLightPaletteGray75);    
+    --colorOba2AliasDarkContentPalettePrimary: var(--colorOba2GlobalDarkPaletteGray900);    
+    --colorOba2AliasDarkContentPaletteSecondary: var(--colorOba2GlobalDarkPaletteGray500);    
+    --colorOba2AliasLightContentPalettePrimary: var(--colorOba2GlobalLightPaletteGray900);    
+    --colorOba2AliasLightContentPaletteSecondary: var(--colorOba2GlobalLightPaletteGray500);    
+    --colorOba2AliasDarkCtaBackgroundPaletteActive: var(--colorOba2GlobalStaticPaletteBrandPrimary);    
+    --colorOba2AliasDarkCtaBackgroundPaletteDisabled: var(--colorOba2GlobalDarkPaletteGray200);    
+    --colorOba2AliasLightCtaBackgroundPaletteActive: var(--colorOba2GlobalStaticPaletteBrandPrimary);    
+    --colorOba2AliasLightCtaBackgroundPaletteDisabled: var(--colorOba2GlobalLightPaletteGray200);    
+    --colorOba2AliasDarkCtaContentPaletteActive: var(--colorOba2GlobalStaticPaletteStaticWhite);    
+    --colorOba2AliasDarkCtaContentPaletteDisabled: var(--colorOba2GlobalDarkPaletteGray500);    
+    --colorOba2AliasLightCtaContentPaletteActive: var(--colorOba2GlobalStaticPaletteStaticWhite);    
+    --colorOba2AliasLightCtaContentPaletteDisabled: var(--colorOba2GlobalLightPaletteGray500);    
 }
