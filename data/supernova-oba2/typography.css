@@ -1,0 +1,140 @@
+.typographyHeadline1 
+ {
+  
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize800);
+  line-height: var(--measureGlobalTypographyMobileFontSizeFontSize800);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadline2 
+ {
+  
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize700);
+  line-height: var(--measureGlobalTypographyMobileFontSizeFontSize700);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadline3 
+ {
+  
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize600);
+  line-height: var(--measureGlobalTypographyMobileFontSizeFontSize600);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTitle 
+ {
+  
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize300);
+  line-height: var(--measureGlobalTypographyMobileFontSizeFontSize300);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographySubtitle 
+ {
+  
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize100);
+  line-height: var(--measureGlobalTypographyMobileLineHeightLineHeight100);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody 
+ {
+  
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize200);
+  line-height: var(--measureGlobalTypographyMobileFontSizeFontSize200);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyLabel 
+ {
+  
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize75);
+  line-height: var(--measureGlobalTypographyMobileLineHeightLineHeight75);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyNumber1 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize700);
+  line-height: var(--measureGlobalTypographyMobileLineHeightLineHeight700);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyNumber2 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize700);
+  line-height: var(--measureGlobalTypographyMobileLineHeightLineHeight700);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyNumber3 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize300);
+  line-height: var(--measureGlobalTypographyMobileLineHeightLineHeight300);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
