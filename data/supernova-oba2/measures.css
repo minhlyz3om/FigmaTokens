@@ -45,4 +45,34 @@
     --measureGlobalTypographyMobileSpacingFontSpacing1100: -0.65px;    
     --measureGlobalTypographyMobileSpacingFontSpacing1200: -0.7px;    
     --measureGlobalTypographyMobileSpacingFontSpacing1300: -0.75px;    
+    --measureGlobalSpacingSpacing0: 0px;    
+    --measureGlobalSpacingSpacing50: 2px;    
+    /* Our base unit for calculating spacing */
+    --measureGlobalSpacingSpacing100: 4px;    
+    --measureGlobalSpacingSpacing200: 8px;    
+    --measureGlobalSpacingSpacing300: 12px;    
+    --measureGlobalSpacingSpacing400: 16px;    
+    --measureGlobalSpacingSpacing500: 20px;    
+    --measureGlobalSpacingSpacing600: 24px;    
+    --measureGlobalSpacingSpacing700: 28px;    
+    --measureGlobalSpacingSpacing800: 32px;    
+    --measureGlobalSpacingSpacing900: 36px;    
+    --measureGlobalSpacingSpacing1000: 40px;    
+    --measureGlobalSpacingSpacing1100: 44px;    
+    --measureGlobalSpacingSpacing1200: 48px;    
+    --measureGlobalScalingScaling0: 0px;    
+    --measureGlobalScalingScaling50: 2px;    
+    /* Our base unit for calculating scaling */
+    --measureGlobalScalingScaling100: 4px;    
+    --measureGlobalScalingScaling200: 8px;    
+    --measureGlobalScalingScaling300: 12px;    
+    --measureGlobalScalingScaling400: 16px;    
+    --measureGlobalScalingScaling500: 20px;    
+    --measureGlobalScalingScaling600: 24px;    
+    --measureGlobalScalingScaling700: 28px;    
+    --measureGlobalScalingScaling800: 32px;    
+    --measureGlobalScalingScaling900: 36px;    
+    --measureGlobalScalingScaling1000: 40px;    
+    --measureGlobalScalingScaling1100: 44px;    
+    --measureGlobalScalingScaling1200: 48px;    
 }
