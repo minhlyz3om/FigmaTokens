@@ -102,7 +102,7 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize700);
+  font-size: var(--measureGlobalTypographyMobileFontSizeFontSize1100);
   line-height: var(--measureGlobalTypographyMobileLineHeightLineHeight700);
   letter-spacing:  
   0em;
