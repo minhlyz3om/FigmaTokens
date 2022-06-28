@@ -480,6 +480,22 @@
             "type": "color"
           }
         }
+      },
+      "opacity": {
+        "state": {
+          "hover": {
+            "value": "0.08",
+            "type": "opacity"
+          },
+          "down": {
+            "value": "0.16",
+            "type": "opacity"
+          },
+          "focus": {
+            "value": "0.08",
+            "type": "opacity"
+          }
+        }
       }
     },
     "sys": {
@@ -565,6 +581,22 @@
           },
           "on-tertiary": {
             "value": "{ref.palette.static.black}",
+            "type": "color"
+          }
+        }
+      },
+      "state": {
+        "primary": {
+          "hover": {
+            "value": "rgba($sys.color.primary.on-primary, $ref.opacity.state.hover)",
+            "type": "color"
+          },
+          "down": {
+            "value": "rgba($sys.color.primary.on-primary, $ref.opacity.state.down)",
+            "type": "color"
+          },
+          "focus": {
+            "value": "rgba($sys.color.primary.on-primary, $ref.opacity.state.focus)",
             "type": "color"
           }
         }
