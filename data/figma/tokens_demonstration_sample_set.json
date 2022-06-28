@@ -1803,6 +1803,14 @@
         "disabled-content-color": {
           "value": "{sys.color.disabled.on-disabled}",
           "type": "color"
+        },
+        "secondary-container-color": {
+          "value": "{sys.color.secondary.secondary}",
+          "type": "color"
+        },
+        "": {
+          "value": "{sys.color.secondary.on-secondary}",
+          "type": "color"
         }
       }
     }
