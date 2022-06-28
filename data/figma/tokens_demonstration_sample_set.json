@@ -149,7 +149,7 @@
           "type": "borderRadius"
         },
         "large": {
-          "value": "8",
+          "value": "4",
           "type": "borderRadius"
         },
         "medium": {
@@ -157,7 +157,7 @@
           "type": "borderRadius"
         },
         "small": {
-          "value": "2",
+          "value": "4",
           "type": "borderRadius"
         }
       },
@@ -327,15 +327,15 @@
           "type": "borderRadius"
         },
         "large": {
-          "value": "8",
+          "value": "50%",
           "type": "borderRadius"
         },
         "medium": {
-          "value": "4",
+          "value": "50%",
           "type": "borderRadius"
         },
         "small": {
-          "value": "2",
+          "value": "50%",
           "type": "borderRadius"
         }
       },
