@@ -177,6 +177,184 @@
       }
     }
   },
+  "yds-goldpoint": {
+    "ref": {
+      "palette": {
+        "brand": {
+          "primary": {
+            "value": "#ba9939",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "#191c26",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "static": {
+          "black": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "white": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        }
+      },
+      "sizing": {
+        "50": {
+          "value": "{ref.sizing.100}*0.5",
+          "type": "sizing"
+        },
+        "100": {
+          "value": "4",
+          "type": "sizing"
+        },
+        "200": {
+          "value": "{ref.sizing.100}*2",
+          "type": "sizing"
+        },
+        "300": {
+          "value": "{ref.sizing.100}*3",
+          "type": "sizing"
+        },
+        "400": {
+          "value": "{ref.sizing.100}*4",
+          "type": "sizing"
+        },
+        "500": {
+          "value": "{ref.sizing.100}*5",
+          "type": "sizing"
+        },
+        "600": {
+          "value": "{ref.sizing.100}*6",
+          "type": "sizing"
+        },
+        "700": {
+          "value": "{ref.sizing.100}*7",
+          "type": "sizing"
+        },
+        "800": {
+          "value": "{ref.sizing.100}*8",
+          "type": "sizing"
+        },
+        "900": {
+          "value": "{ref.sizing.100}*9",
+          "type": "sizing"
+        },
+        "1000": {
+          "value": "{ref.sizing.100}*10",
+          "type": "sizing"
+        },
+        "1100": {
+          "value": "{ref.sizing.100}*11",
+          "type": "sizing"
+        },
+        "1200": {
+          "value": "{ref.sizing.100}*12",
+          "type": "sizing"
+        },
+        "1300": {
+          "value": "{ref.sizing.100}*13",
+          "type": "sizing"
+        }
+      },
+      "spacing": {
+        "50": {
+          "value": "{ref.spacing.100}*0.5",
+          "type": "spacing"
+        },
+        "100": {
+          "value": "4",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "{ref.spacing.100}*2",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "{ref.spacing.100}*3",
+          "type": "spacing"
+        },
+        "400": {
+          "value": "{ref.spacing.100}*4",
+          "type": "spacing"
+        },
+        "500": {
+          "value": "{ref.spacing.100}*5",
+          "type": "spacing"
+        },
+        "600": {
+          "value": "{ref.spacing.100}*6",
+          "type": "spacing"
+        },
+        "700": {
+          "value": "{ref.spacing.100}*7",
+          "type": "spacing"
+        },
+        "800": {
+          "value": "{ref.spacing.100}*8",
+          "type": "spacing"
+        },
+        "900": {
+          "value": "{ref.spacing.100}*9",
+          "type": "spacing"
+        },
+        "1000": {
+          "value": "{ref.spacing.100}*10",
+          "type": "spacing"
+        },
+        "1100": {
+          "value": "{ref.spacing.100}*11",
+          "type": "spacing"
+        },
+        "1200": {
+          "value": "{ref.spacing.100}*12",
+          "type": "spacing"
+        },
+        "1300": {
+          "value": "{ref.spacing.100}*13",
+          "type": "spacing"
+        }
+      },
+      "border-radius": {
+        "rounded": {
+          "value": "50%",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "8",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "4",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "2",
+          "type": "borderRadius"
+        }
+      },
+      "border-width": {
+        "thin": {
+          "value": "1",
+          "type": "borderWidth"
+        },
+        "light": {
+          "value": "2",
+          "type": "borderWidth"
+        },
+        "regular": {
+          "value": "4",
+          "type": "borderWidth"
+        }
+      }
+    }
+  },
   "yds-light": {
     "ref": {
       "palette": {
