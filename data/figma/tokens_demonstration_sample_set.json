@@ -71,6 +71,18 @@
         "1000": {
           "value": "{ref.sizing.100}*10",
           "type": "sizing"
+        },
+        "1100": {
+          "value": "{ref.sizing.100}*11",
+          "type": "sizing"
+        },
+        "1200": {
+          "value": "{ref.sizing.100}*12",
+          "type": "sizing"
+        },
+        "1300": {
+          "value": "{ref.sizing.100}*13",
+          "type": "sizing"
         }
       },
       "spacing": {
@@ -116,6 +128,18 @@
         },
         "1000": {
           "value": "{ref.spacing.100}*10",
+          "type": "spacing"
+        },
+        "1100": {
+          "value": "{ref.spacing.100}*11",
+          "type": "spacing"
+        },
+        "1200": {
+          "value": "{ref.spacing.100}*12",
+          "type": "spacing"
+        },
+        "1300": {
+          "value": "{ref.spacing.100}*13",
           "type": "spacing"
         }
       },
@@ -1545,39 +1569,51 @@
     "comp": {
       "button": {
         "size-xlarge": {
-          "value": "{ref.sizing.700}",
+          "value": "{ref.sizing.1300}",
           "type": "sizing"
         },
         "size-large": {
-          "value": "{ref.sizing.700}",
+          "value": "{ref.sizing.1100}",
           "type": "sizing"
         },
         "size-medium": {
-          "value": "{ref.sizing.400}",
+          "value": "{ref.sizing.900}",
           "type": "sizing"
         },
         "size-small": {
-          "value": "{ref.sizing.200}",
+          "value": "{ref.sizing.700}",
           "type": "sizing"
         },
         "icon-size-xlarge": {
-          "value": "{ref.sizing.200}",
+          "value": "{ref.sizing.600}",
           "type": "sizing"
         },
         "icon-size-large": {
-          "value": "{ref.sizing.200}",
+          "value": "{ref.sizing.500}",
           "type": "sizing"
         },
         "icon-size-medium": {
-          "value": "{ref.sizing.200}",
+          "value": "{ref.sizing.500}",
           "type": "sizing"
         },
         "icon-size-small": {
-          "value": "{ref.sizing.200}",
+          "value": "{ref.sizing.400}",
           "type": "sizing"
         },
         "label-xlarge": {
-          "value": "{ref.sizing.200}",
+          "value": "{sys.typography.label-large}",
+          "type": "typography"
+        },
+        "label-large": {
+          "value": "{sys.typography.label-large}",
+          "type": "typography"
+        },
+        "label-medium": {
+          "value": "{sys.typography.label-medium}",
+          "type": "typography"
+        },
+        "label-small": {
+          "value": "{sys.typography.label-small}",
           "type": "typography"
         },
         "padding-xlarge": {
@@ -1597,11 +1633,11 @@
           "type": "spacing"
         },
         "filled-container-color": {
-          "value": "{ref.palette.brand.primary}",
+          "value": "{sys.color.primary.primary}",
           "type": "color"
         },
         "filled-content-color": {
-          "value": "{ref.palette.static.static-white}",
+          "value": "{sys.color.primary.on-primary}",
           "type": "color"
         },
         "border-xlarge": {
