@@ -583,6 +583,16 @@
             "value": "{ref.palette.static.black}",
             "type": "color"
           }
+        },
+        "disabled": {
+          "disabled": {
+            "value": "{ref.palette.gray.100}",
+            "type": "color"
+          },
+          "on-disabled": {
+            "value": "{ref.palette.gray.400}",
+            "type": "color"
+          }
         }
       },
       "state": {
@@ -1037,6 +1047,16 @@
             "value": "{ref.palette.static.black}",
             "type": "color"
           }
+        },
+        "disabled": {
+          "disabled": {
+            "value": "{ref.palette.gray.100}",
+            "type": "color"
+          },
+          "on-disabled": {
+            "value": "{ref.palette.gray.400}",
+            "type": "color"
+          }
         }
       },
       "state": {
@@ -1348,8 +1368,8 @@
             "fontFamily": "{ref.font-family.primary}",
             "fontWeight": "{ref.font-weight.regular}",
             "lineHeight": "{ref.line-height.non-cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.200}",
+            "letterSpacing": "{ref.letter-spacing.200}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -1361,8 +1381,8 @@
             "fontFamily": "{ref.font-family.primary}",
             "fontWeight": "{ref.font-weight.regular}",
             "lineHeight": "{ref.line-height.non-cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.100}",
+            "letterSpacing": "{ref.letter-spacing.100}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -1374,8 +1394,8 @@
             "fontFamily": "{ref.font-family.primary}",
             "fontWeight": "{ref.font-weight.regular}",
             "lineHeight": "{ref.line-height.non-cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.75}",
+            "letterSpacing": "{ref.letter-spacing.75}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -1648,8 +1668,8 @@
             "fontFamily": "{ref.font-family.primary}",
             "fontWeight": "{ref.font-weight.regular}",
             "lineHeight": "{ref.line-height.cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.200}",
+            "letterSpacing": "{ref.letter-spacing.200}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -1661,8 +1681,8 @@
             "fontFamily": "{ref.font-family.primary}",
             "fontWeight": "{ref.font-weight.regular}",
             "lineHeight": "{ref.line-height.cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.100}",
+            "letterSpacing": "{ref.letter-spacing.100}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -1674,8 +1694,8 @@
             "fontFamily": "{ref.font-family.primary}",
             "fontWeight": "{ref.font-weight.regular}",
             "lineHeight": "{ref.line-height.cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.75}",
+            "letterSpacing": "{ref.letter-spacing.75}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -1775,6 +1795,14 @@
         "border-small": {
           "value": "{ref.border-radius.small}",
           "type": "borderRadius"
+        },
+        "disabled-container-color": {
+          "value": "{sys.color.disabled.disabled}",
+          "type": "color"
+        },
+        "disabled-content-color": {
+          "value": "{sys.color.disabled.on-disabled}",
+          "type": "color"
         }
       }
     }
