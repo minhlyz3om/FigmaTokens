@@ -1737,11 +1737,11 @@
           "type": "typography"
         },
         "padding-xlarge": {
-          "value": "{ref.spacing.700}",
+          "value": "{ref.spacing.600}",
           "type": "spacing"
         },
         "padding-large": {
-          "value": "{ref.spacing.700}",
+          "value": "{ref.spacing.500}",
           "type": "spacing"
         },
         "padding-medium": {
@@ -1749,7 +1749,7 @@
           "type": "spacing"
         },
         "padding-small": {
-          "value": "{ref.spacing.200}",
+          "value": "{ref.spacing.300}",
           "type": "spacing"
         },
         "filled-container-color": {
