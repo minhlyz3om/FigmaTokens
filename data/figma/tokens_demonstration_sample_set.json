@@ -176,6 +176,36 @@
           "value": "4",
           "type": "borderWidth"
         }
+      },
+      "motion": {
+        "duration": {
+          "short": {
+            "value": "300ms",
+            "type": "other"
+          },
+          "medium": {
+            "value": "500ms",
+            "type": "other"
+          },
+          "long": {
+            "value": "1000ms",
+            "type": "other"
+          }
+        },
+        "easing": {
+          "ease": {
+            "value": "cubic-bezier(.42,0,.52,1)",
+            "type": "other"
+          },
+          "ease-in": {
+            "value": "cubic-bezier(.42,.0,0,1)",
+            "type": "other"
+          },
+          "ease-out": {
+            "value": "cubic-bezier(0,0,.58,1)",
+            "type": "other"
+          }
+        }
       }
     }
   },
@@ -355,6 +385,36 @@
         "regular": {
           "value": "4",
           "type": "borderWidth"
+        }
+      },
+      "motion": {
+        "duration": {
+          "short": {
+            "value": "300ms",
+            "type": "other"
+          },
+          "medium": {
+            "value": "500ms",
+            "type": "other"
+          },
+          "long": {
+            "value": "1000ms",
+            "type": "other"
+          }
+        },
+        "easing": {
+          "ease": {
+            "value": "cubic-bezier(.42,0,.52,1)",
+            "type": "other"
+          },
+          "ease-in": {
+            "value": "cubic-bezier(.42,.0,0,1)",
+            "type": "other"
+          },
+          "ease-out": {
+            "value": "cubic-bezier(0,0,.58,1)",
+            "type": "other"
+          }
         }
       }
     }
