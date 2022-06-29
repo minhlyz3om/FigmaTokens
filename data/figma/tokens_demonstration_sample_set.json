@@ -681,37 +681,37 @@
         "success": {
           "success": {
             "type": "color",
-            "value": "{sys.palette.green.500}"
+            "value": "{ref.palette.green.500}"
           },
           "on-success": {
             "type": "color",
-            "value": "{sys.palette.green.50}"
+            "value": "{ref.palette.green.50}"
           },
           "success-container": {
             "type": "color",
-            "value": "{sys.palette.green.100}"
+            "value": "{ref.palette.green.100}"
           },
           "on-success-container": {
             "type": "color",
-            "value": "{sys.palette.green.900}"
+            "value": "{ref.palette.green.900}"
           }
         },
         "warning": {
           "warning": {
             "type": "color",
-            "value": "{sys.palette.orange.500}"
+            "value": "{ref.palette.orange.500}"
           },
           "on-warning": {
             "type": "color",
-            "value": "{sys.palette.orange.50}"
+            "value": "{ref.palette.orange.50}"
           },
           "warning-container": {
             "type": "color",
-            "value": "{sys.palette.orange.100}"
+            "value": "{ref.palette.orange.100}"
           },
           "on-warning-container": {
             "type": "color",
-            "value": "{sys.palette.orange.900}"
+            "value": "{ref.palette.orange.900}"
           }
         },
         "error": {
@@ -735,41 +735,41 @@
         "primary": {
           "primary": {
             "type": "color",
-            "value": "{sys.palette.brand.primary}"
+            "value": "{ref.palette.brand.primary}"
           },
           "on-primary": {
             "type": "color",
-            "value": "{sys.palette.static.white}"
+            "value": "{ref.palette.static.white}"
           }
         },
         "secondary": {
           "secondary": {
             "type": "color",
-            "value": "{sys.palette.brand.secondary}"
+            "value": "{ref.palette.brand.secondary}"
           },
           "on-secondary": {
             "type": "color",
-            "value": "{sys.palette.static.white}"
+            "value": "{ref.palette.static.white}"
           }
         },
         "tertiary": {
           "tertiary": {
             "type": "color",
-            "value": "{sys.palette.brand.tertiary}"
+            "value": "{ref.palette.brand.tertiary}"
           },
           "on-tertiary": {
             "type": "color",
-            "value": "{sys.palette.static.black}"
+            "value": "{ref.palette.static.black}"
           }
         },
         "disabled": {
           "disabled": {
             "type": "color",
-            "value": "{sys.palette.gray.100}"
+            "value": "{ref.palette.gray.100}"
           },
           "on-disabled": {
             "type": "color",
-            "value": "{sys.palette.gray.400}"
+            "value": "{ref.palette.gray.400}"
           }
         }
       },
@@ -1145,37 +1145,37 @@
         "success": {
           "success": {
             "type": "color",
-            "value": "{sys.palette.green.700}"
+            "value": "{ref.palette.green.700}"
           },
           "on-success": {
             "type": "color",
-            "value": "{sys.palette.green.50}"
+            "value": "{ref.palette.green.50}"
           },
           "success-container": {
             "type": "color",
-            "value": "{sys.palette.green.100}"
+            "value": "{ref.palette.green.100}"
           },
           "on-success-container": {
             "type": "color",
-            "value": "{sys.palette.green.900}"
+            "value": "{ref.palette.green.900}"
           }
         },
         "warning": {
           "warning": {
             "type": "color",
-            "value": "{sys.palette.orange.700}"
+            "value": "{ref.palette.orange.700}"
           },
           "on-warning": {
             "type": "color",
-            "value": "{sys.palette.orange.50}"
+            "value": "{ref.palette.orange.50}"
           },
           "warning-container": {
             "type": "color",
-            "value": "{sys.palette.orange.100}"
+            "value": "{ref.palette.orange.100}"
           },
           "on-warning-container": {
             "type": "color",
-            "value": "{sys.palette.orange.900}"
+            "value": "{ref.palette.orange.900}"
           }
         },
         "error": {
@@ -1199,41 +1199,41 @@
         "primary": {
           "primary": {
             "type": "color",
-            "value": "{sys.palette.brand.primary}"
+            "value": "{ref.palette.brand.primary}"
           },
           "on-primary": {
             "type": "color",
-            "value": "{sys.palette.static.white}"
+            "value": "{ref.palette.static.white}"
           }
         },
         "secondary": {
           "secondary": {
             "type": "color",
-            "value": "{sys.palette.brand.secondary}"
+            "value": "{ref.palette.brand.secondary}"
           },
           "on-secondary": {
             "type": "color",
-            "value": "{sys.palette.static.white}"
+            "value": "{ref.palette.static.white}"
           }
         },
         "tertiary": {
           "tertiary": {
             "type": "color",
-            "value": "{sys.palette.brand.tertiary}"
+            "value": "{ref.palette.brand.tertiary}"
           },
           "on-tertiary": {
             "type": "color",
-            "value": "{sys.palette.static.black}"
+            "value": "{ref.palette.static.black}"
           }
         },
         "disabled": {
           "disabled": {
             "type": "color",
-            "value": "{sys.palette.gray.100}"
+            "value": "{ref.palette.gray.100}"
           },
           "on-disabled": {
             "type": "color",
-            "value": "{sys.palette.gray.400}"
+            "value": "{ref.palette.gray.400}"
           }
         }
       },
