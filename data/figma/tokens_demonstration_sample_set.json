@@ -2029,6 +2029,10 @@
         "tertiary-content-color": {
           "value": "{sys.color.tertiary.on-tertiary}",
           "type": "color"
+        },
+        "gap-common": {
+          "value": "{ref.spacing.200}",
+          "type": "spacing"
         }
       }
     }
