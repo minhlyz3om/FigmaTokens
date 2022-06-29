@@ -1457,15 +1457,15 @@
       },
       "paraspacing": {
         "regular": {
-          "value": "200%",
+          "value": "0",
           "type": "paragraphSpacing"
         },
         "tight": {
-          "value": "150%",
+          "value": "0",
           "type": "paragraphSpacing"
         },
         "wide": {
-          "value": "250%",
+          "value": "0",
           "type": "paragraphSpacing"
         }
       }
@@ -1771,15 +1771,15 @@
       },
       "paraspacing": {
         "regular": {
-          "value": "200%",
+          "value": "0",
           "type": "paragraphSpacing"
         },
         "tight": {
-          "value": "150%",
+          "value": "0",
           "type": "paragraphSpacing"
         },
         "wide": {
-          "value": "250%",
+          "value": "0",
           "type": "paragraphSpacing"
         }
       }
