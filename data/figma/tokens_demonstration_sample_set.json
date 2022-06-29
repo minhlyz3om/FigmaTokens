@@ -142,7 +142,9 @@
           "type": "spacing",
           "value": "{ref.spacing.100}*13"
         }
-      },
+      }
+    },
+    "sys": {
       "border-radius": {
         "rounded": {
           "value": "50%",
@@ -320,7 +322,9 @@
           "type": "spacing",
           "value": "{ref.spacing.100}*13"
         }
-      },
+      }
+    },
+    "sys": {
       "border-radius": {
         "rounded": {
           "value": "50%",
@@ -1916,35 +1920,35 @@
       "button": {
         "size-xlarge": {
           "type": "sizing",
-          "value": "{sys.sizing.1300}"
+          "value": "{ref.sizing.1300}"
         },
         "size-large": {
           "type": "sizing",
-          "value": "{sys.sizing.1100}"
+          "value": "{ref.sizing.1100}"
         },
         "size-medium": {
           "type": "sizing",
-          "value": "{sys.sizing.900}"
+          "value": "{ref.sizing.900}"
         },
         "size-small": {
           "type": "sizing",
-          "value": "{sys.sizing.700}"
+          "value": "{ref.sizing.700}"
         },
         "icon-size-xlarge": {
           "type": "sizing",
-          "value": "{sys.sizing.600}"
+          "value": "{ref.sizing.600}"
         },
         "icon-size-large": {
           "type": "sizing",
-          "value": "{sys.sizing.500}"
+          "value": "{ref.sizing.500}"
         },
         "icon-size-medium": {
           "type": "sizing",
-          "value": "{sys.sizing.500}"
+          "value": "{ref.sizing.500}"
         },
         "icon-size-small": {
           "type": "sizing",
-          "value": "{sys.sizing.400}"
+          "value": "{ref.sizing.400}"
         },
         "label-xlarge": {
           "value": "{sys.typography.label-large}",
@@ -1964,19 +1968,19 @@
         },
         "padding-xlarge": {
           "type": "spacing",
-          "value": "{sys.spacing.600}"
+          "value": "{ref.spacing.600}"
         },
         "padding-large": {
           "type": "spacing",
-          "value": "{sys.spacing.500}"
+          "value": "{ref.spacing.500}"
         },
         "padding-medium": {
           "type": "spacing",
-          "value": "{sys.spacing.400}"
+          "value": "{ref.spacing.400}"
         },
         "padding-small": {
           "type": "spacing",
-          "value": "{sys.spacing.300}"
+          "value": "{ref.spacing.300}"
         },
         "filled-container-color": {
           "value": "{sys.color.primary.primary}",
