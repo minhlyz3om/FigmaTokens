@@ -666,15 +666,15 @@
       "opacity": {
         "state": {
           "hover": {
-            "value": "0.08",
-            "type": "opacity"
-          },
-          "down": {
             "value": "0.16",
             "type": "opacity"
           },
+          "down": {
+            "value": "0.24",
+            "type": "opacity"
+          },
           "focus": {
-            "value": "0.08",
+            "value": "0.16",
             "type": "opacity"
           }
         }
@@ -1130,15 +1130,15 @@
       "opacity": {
         "state": {
           "hover": {
-            "value": "0.08",
-            "type": "opacity"
-          },
-          "down": {
             "value": "0.16",
             "type": "opacity"
           },
+          "down": {
+            "value": "0.24",
+            "type": "opacity"
+          },
           "focus": {
-            "value": "0.08",
+            "value": "0.16",
             "type": "opacity"
           }
         }
