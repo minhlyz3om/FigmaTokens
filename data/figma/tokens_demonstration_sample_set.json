@@ -1156,6 +1156,10 @@
           "focus": {
             "value": "0.16",
             "type": "opacity"
+          },
+          "enabled": {
+            "value": "0",
+            "type": "opacity"
           }
         }
       }
@@ -1270,6 +1274,10 @@
           "focus": {
             "value": "rgba($sys.color.primary.on-primary, $ref.opacity.state.focus)",
             "type": "color"
+          },
+          "enabled": {
+            "value": "rgba($sys.color.primary.on-primary, $ref.opacity.state.enabled)",
+            "type": "color"
           }
         },
         "secondary": {
@@ -1284,6 +1292,10 @@
           "focus": {
             "value": "rgba($sys.color.secondary.on-secondary, $ref.opacity.state.focus)",
             "type": "color"
+          },
+          "enabled": {
+            "value": "rgba($sys.color.secondary.on-secondary, $ref.opacity.state.enabled)",
+            "type": "color"
           }
         },
         "tertiary": {
@@ -1297,6 +1309,10 @@
           },
           "focus": {
             "value": "rgba($sys.color.tertiary.on-tertiary, $ref.opacity.state.focus)",
+            "type": "color"
+          },
+          "enabled": {
+            "value": "rgba($sys.color.tertiary.on-tertiary, $ref.opacity.state.enabled)",
             "type": "color"
           }
         }
