@@ -2018,8 +2018,16 @@
           "value": "{sys.color.secondary.secondary}",
           "type": "color"
         },
-        "": {
+        "secondary-content-color": {
           "value": "{sys.color.secondary.on-secondary}",
+          "type": "color"
+        },
+        "tertiary-container-color": {
+          "value": "{sys.color.tertiary.tertiary}",
+          "type": "color"
+        },
+        "tertiary-content-color": {
+          "value": "{sys.color.tertiary.on-tertiary}",
           "type": "color"
         }
       }
