@@ -1295,7 +1295,7 @@
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "M Plus 1p",
+          "value": "M+ 1p",
           "type": "fontFamilies"
         },
         "numerical": {
@@ -1333,8 +1333,8 @@
             "fontFamily": "{sys.font-family.secondary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "$sys.line-height.non-cjk",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.900}",
+            "letterSpacing": "{ref.letter-spacing.900}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1343,7 +1343,7 @@
         },
         "display-medium": {
           "value": {
-            "fontFamily": "sys.font-family.secondary}",
+            "fontFamily": "{sys.font-family.secondary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.non-cjk}",
             "fontSize": "{ref.font-size.700}",
@@ -1359,8 +1359,8 @@
             "fontFamily": "{sys.font-family.secondary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.non-cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.500}",
+            "letterSpacing": "{ref.letter-spacing.500}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1385,8 +1385,8 @@
             "fontFamily": "{sys.font-family.primary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.non-cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.500}",
+            "letterSpacing": "{ref.letter-spacing.500}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1398,8 +1398,8 @@
             "fontFamily": "{sys.font-family.primary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.non-cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.300}",
+            "letterSpacing": "{ref.letter-spacing.300}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1411,8 +1411,8 @@
             "fontFamily": "{sys.font-family.primary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.non-cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.100}",
+            "letterSpacing": "{ref.letter-spacing.100}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1647,8 +1647,8 @@
             "fontFamily": "{sys.font-family.secondary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "$sys.line-height.cjk",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.900}",
+            "letterSpacing": "{ref.letter-spacing.900}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1673,8 +1673,8 @@
             "fontFamily": "{sys.font-family.secondary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.500}",
+            "letterSpacing": "{ref.letter-spacing.500}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1699,8 +1699,8 @@
             "fontFamily": "{sys.font-family.primary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.500}",
+            "letterSpacing": "{ref.letter-spacing.500}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1712,8 +1712,8 @@
             "fontFamily": "{sys.font-family.primary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.300}",
+            "letterSpacing": "{ref.letter-spacing.300}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
@@ -1725,8 +1725,8 @@
             "fontFamily": "{sys.font-family.primary}",
             "fontWeight": "{sys.font-weight.regular}",
             "lineHeight": "{sys.line-height.cjk}",
-            "fontSize": "{ref.font-size.700}",
-            "letterSpacing": "{ref.letter-spacing.700}",
+            "fontSize": "{ref.font-size.100}",
+            "letterSpacing": "{ref.letter-spacing.100}",
             "paragraphSpacing": "{sys.paraspacing.regular}",
             "textDecoration": "none",
             "textCase": "none"
