@@ -1461,15 +1461,15 @@
       },
       "paraspacing": {
         "regular": {
-          "value": "0",
+          "value": "0%",
           "type": "paragraphSpacing"
         },
         "tight": {
-          "value": "0",
+          "value": "0%",
           "type": "paragraphSpacing"
         },
         "wide": {
-          "value": "0",
+          "value": "0%",
           "type": "paragraphSpacing"
         }
       }
@@ -1539,63 +1539,63 @@
       },
       "letter-spacing": {
         "50": {
-          "value": "-0.03",
+          "value": "-0.03%",
           "type": "letterSpacing"
         },
         "75": {
-          "value": "-0.05",
+          "value": "-0.05%",
           "type": "letterSpacing"
         },
         "100": {
-          "value": "-0.1",
+          "value": "-0.1%",
           "type": "letterSpacing"
         },
         "200": {
-          "value": "-0.1",
+          "value": "-0.1%",
           "type": "letterSpacing"
         },
         "300": {
-          "value": "-0.25",
+          "value": "-0.25%",
           "type": "letterSpacing"
         },
         "400": {
-          "value": "-0.3",
+          "value": "-0.3%",
           "type": "letterSpacing"
         },
         "500": {
-          "value": "-0.35",
+          "value": "-0.35%",
           "type": "letterSpacing"
         },
         "600": {
-          "value": "-0.4",
+          "value": "-0.4%",
           "type": "letterSpacing"
         },
         "700": {
-          "value": "-0.45",
+          "value": "-0.45%",
           "type": "letterSpacing"
         },
         "800": {
-          "value": "-0.5",
+          "value": "-0.5%",
           "type": "letterSpacing"
         },
         "900": {
-          "value": "-0.55",
+          "value": "-0.55%",
           "type": "letterSpacing"
         },
         "1000": {
-          "value": "-0.6",
+          "value": "-0.6%",
           "type": "letterSpacing"
         },
         "1100": {
-          "value": "-0.65",
+          "value": "-0.65%",
           "type": "letterSpacing"
         },
         "1200": {
-          "value": "-0.7",
+          "value": "-0.7%",
           "type": "letterSpacing"
         },
         "1300": {
-          "value": "-0.75",
+          "value": "-0.75%",
           "type": "letterSpacing"
         }
       }
@@ -1775,15 +1775,15 @@
       },
       "paraspacing": {
         "regular": {
-          "value": "0",
+          "value": "0%",
           "type": "paragraphSpacing"
         },
         "tight": {
-          "value": "0",
+          "value": "0%",
           "type": "paragraphSpacing"
         },
         "wide": {
-          "value": "0",
+          "value": "0%",
           "type": "paragraphSpacing"
         }
       }
@@ -1853,63 +1853,63 @@
       },
       "letter-spacing": {
         "50": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "75": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "100": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "200": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "300": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "400": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "500": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "600": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "700": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "800": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "900": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "1000": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "1100": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "1200": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         },
         "1300": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing"
         }
       }
