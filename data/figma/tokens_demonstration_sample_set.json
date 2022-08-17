@@ -1781,11 +1781,11 @@
     "sys": {
       "font-family": {
         "primary": {
-          "value": "Noto Sans JP",
+          "value": "AXIS Basic StdN",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "M+ 1p",
+          "value": "Brother 1816",
           "type": "fontFamilies"
         },
         "numerical": {
