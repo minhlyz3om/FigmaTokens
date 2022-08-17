@@ -2155,7 +2155,7 @@
       }
     }
   },
-  "yds-action": {
+  "global-action": {
     "comp": {
       "button": {
         "size-large": {
@@ -2174,6 +2174,20 @@
           "type": "spacing",
           "value": "{ref.spacing.500}"
         },
+        "border-large": {
+          "type": "borderRadius",
+          "value": "{sys.border-radius.default}"
+        },
+        "gap-common": {
+          "value": "{ref.spacing.200}",
+          "type": "spacing"
+        }
+      }
+    }
+  },
+  "yds-action": {
+    "comp": {
+      "button": {
         "filled-container-color": {
           "value": "{sys.color.primary.primary}",
           "type": "color"
@@ -2182,10 +2196,6 @@
           "value": "{sys.color.primary.on-primary}",
           "type": "color"
         },
-        "border-large": {
-          "type": "borderRadius",
-          "value": "{sys.border-radius.default}"
-        },
         "disabled-container-color": {
           "value": "{sys.color.disabled.disabled}",
           "type": "color"
@@ -2193,10 +2203,6 @@
         "disabled-content-color": {
           "value": "{sys.color.disabled.on-disabled}",
           "type": "color"
-        },
-        "gap-common": {
-          "value": "{ref.spacing.200}",
-          "type": "spacing"
         },
         "clear-content-color": {
           "value": "{sys.color.background.on-background}",
@@ -2318,6 +2324,7 @@
       "ish",
       "yds_taxi",
       "yds_avatar",
+      "global-action",
       "yds-action",
       "yds-navigation"
     ]
