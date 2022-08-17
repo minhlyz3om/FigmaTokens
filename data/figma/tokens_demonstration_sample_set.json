@@ -1727,6 +1727,74 @@
       }
     }
   },
+  "ish": {
+    "ref": {
+      "palette": {
+        "brand": {
+          "primary": {
+            "value": "rgba(0,133,202,1)",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "rgba(7,29,73,1)",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "rgba(255,255,255,1)",
+            "type": "color"
+          }
+        },
+        "static": {
+          "white": {
+            "value": "rgba(255,255,255,1)",
+            "type": "color"
+          },
+          "black": {
+            "value": "rgba(0,0,0,1)",
+            "type": "color"
+          }
+        },
+        "spot": {
+          "sun-yellow": {
+            "value": "rgba(255,281,0,1)",
+            "type": "color"
+          },
+          "acid-green": {
+            "value": "rgba(242,0,0,1)",
+            "type": "color"
+          },
+          "mint-teal": {
+            "value": "rgba(168, 187, 88,1)",
+            "type": "color"
+          },
+          "tech-blue": {
+            "value": "rgba(152,165,174,1)",
+            "type": "color"
+          },
+          "cyber-pink": {
+            "value": "rgba(0,0,0,1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "sys": {
+      "font-family": {
+        "primary": {
+          "value": "Noto Sans JP",
+          "type": "fontFamilies"
+        },
+        "secondary": {
+          "value": "M+ 1p",
+          "type": "fontFamilies"
+        },
+        "numerical": {
+          "value": "Roboto",
+          "type": "fontFamilies"
+        }
+      }
+    }
+  },
   "yds_taxi": {
     "sys": {
       "border-radius": {
@@ -2247,6 +2315,7 @@
       "global-international",
       "global-japanese",
       "yds",
+      "ish",
       "yds_taxi",
       "yds_avatar",
       "yds-action",
