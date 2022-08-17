@@ -427,7 +427,7 @@
       }
     }
   },
-  "yds-light": {
+  "global-light": {
     "ref": {
       "palette": {
         "gray": {
@@ -961,7 +961,7 @@
       }
     }
   },
-  "yds-dark": {
+  "global-dark": {
     "ref": {
       "palette": {
         "gray": {
@@ -1495,7 +1495,7 @@
       }
     }
   },
-  "yds-international": {
+  "global-international": {
     "sys": {
       "font-weight": {
         "regular": {
@@ -1791,7 +1791,7 @@
       }
     }
   },
-  "yds-japanese": {
+  "global-japanese": {
     "sys": {
       "font-weight": {
         "regular": {
@@ -2245,10 +2245,10 @@
       "yds",
       "yds_taxi",
       "yds_avatar",
-      "yds-light",
-      "yds-dark",
-      "yds-international",
-      "yds-japanese",
+      "global-light",
+      "global-dark",
+      "global-international",
+      "global-japanese",
       "yds-action",
       "yds-navigation"
     ]
