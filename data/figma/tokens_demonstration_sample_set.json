@@ -1,5 +1,5 @@
 {
-  "global-light": {
+  "yds-global-light": {
     "ref": {
       "palette": {
         "gray": {
@@ -533,7 +533,7 @@
       }
     }
   },
-  "global-dark": {
+  "yds-global-dark": {
     "ref": {
       "palette": {
         "gray": {
@@ -1067,7 +1067,7 @@
       }
     }
   },
-  "global-international": {
+  "yds-global-international": {
     "sys": {
       "font-weight": {
         "regular": {
@@ -1363,7 +1363,7 @@
       }
     }
   },
-  "global-japanese": {
+  "yds-global-japanese": {
     "sys": {
       "font-weight": {
         "regular": {
@@ -1659,7 +1659,7 @@
       }
     }
   },
-  "global-action": {
+  "yds-global-action": {
     "comp": {
       "button": {
         "common-properties": {
@@ -1695,7 +1695,7 @@
       }
     }
   },
-  "global-navigation": {
+  "yds-global-navigation": {
     "comp": {
       "menu-row": {
         "icon-label-size": {
@@ -1797,7 +1797,7 @@
       }
     }
   },
-  "yds": {
+  "yod": {
     "ref": {
       "palette": {
         "brand": {
@@ -1933,7 +1933,7 @@
       }
     }
   },
-  "yds_app": {
+  "yod_app": {
     "sys": {
       "border-radius": {
         "rounded": {
@@ -2293,7 +2293,7 @@
       }
     }
   },
-  "yds-action": {
+  "yod-action": {
     "comp": {
       "button": {
         "filled-container-color": {
@@ -2345,7 +2345,7 @@
       }
     }
   },
-  "yds-navigation": {
+  "yod-navigation": {
     "comp": {
       "menu-row": {
         "icon-label-size": {
@@ -2552,19 +2552,19 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global-light",
-      "global-dark",
-      "global-international",
-      "global-japanese",
-      "global-action",
-      "global-navigation",
-      "yds",
+      "yds-global-light",
+      "yds-global-dark",
+      "yds-global-international",
+      "yds-global-japanese",
+      "yds-global-action",
+      "yds-global-navigation",
+      "yod",
       "ish",
-      "yds_app",
+      "yod_app",
       "ish_app",
-      "yds-action",
+      "yod-action",
       "ish-action",
-      "yds-navigation",
+      "yod-navigation",
       "ish-navigation"
     ]
   }
