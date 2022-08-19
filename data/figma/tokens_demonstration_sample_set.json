@@ -2583,6 +2583,20 @@
             "value": "rgba({ref.palette.gray.200}, 1)",
             "type": "color"
           }
+        },
+        "elevated": {
+          "container-color": {
+            "value": "rgba({sys.color.background.background}, 1)",
+            "type": "color"
+          },
+          "content-color": {
+            "value": "rgba({sys.color.background.on-background}, 1)",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "rgba({sys.color.background.background}, 0)",
+            "type": "color"
+          }
         }
       }
     }
