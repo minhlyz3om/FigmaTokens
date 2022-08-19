@@ -530,6 +530,113 @@
             "type": "color"
           }
         }
+      },
+      "elevation": {
+        "closest": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "3",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "closer": {
+          "value": [
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "5",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1",
+              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "regular": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "6",
+              "spread": "2",
+              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "3",
+              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "further": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "24",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "furthest": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "48",
+              "spread": "8",
+              "color": "rgba({sys.color.background.on-background}, 0.24)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "3",
+              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     }
   },
@@ -1063,6 +1170,113 @@
             "value": "rgba($sys.color.background.on-background, $ref.opacity.state.disabled)",
             "type": "color"
           }
+        }
+      },
+      "elevation": {
+        "closest": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "3",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "closer": {
+          "value": [
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "5",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1",
+              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "regular": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "6",
+              "spread": "2",
+              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "3",
+              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "further": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "24",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "0",
+              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "furthest": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "48",
+              "spread": "8",
+              "color": "rgba({sys.color.background.on-background}, 0.24)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "1",
+              "spread": "3",
+              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
         }
       }
     }
