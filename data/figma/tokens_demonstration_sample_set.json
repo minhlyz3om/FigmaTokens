@@ -623,7 +623,7 @@
               "y": "0",
               "blur": "48",
               "spread": "8",
-              "color": "rgba({ref.palette.static.black}, 0.48)",
+              "color": "rgba({ref.palette.static.black}, 0.24)",
               "type": "dropShadow"
             },
             {
@@ -1264,7 +1264,7 @@
               "y": "0",
               "blur": "48",
               "spread": "8",
-              "color": "rgba({ref.palette.static.black}, 0.48)",
+              "color": "rgba({ref.palette.static.black}, 0.24)",
               "type": "dropShadow"
             },
             {
