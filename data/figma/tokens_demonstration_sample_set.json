@@ -567,7 +567,7 @@
               "x": "0",
               "y": "0",
               "blur": "1",
-              "spread": "",
+              "spread": "0",
               "color": "rgba({ref.palette.static.black}, 0.20)",
               "type": "dropShadow"
             }
@@ -1208,7 +1208,7 @@
               "x": "0",
               "y": "0",
               "blur": "1",
-              "spread": "",
+              "spread": "0",
               "color": "rgba({ref.palette.static.black}, 0.20)",
               "type": "dropShadow"
             }
