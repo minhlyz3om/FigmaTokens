@@ -1887,7 +1887,7 @@
               "value": "{ref.sizing.500}"
             },
             "text-label": {
-              "value": "{sys.typography.label-large}",
+              "value": "{sys.typography.label-medium}",
               "type": "typography"
             },
             "padding-horizontal": {
