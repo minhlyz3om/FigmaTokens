@@ -2165,7 +2165,7 @@
       }
     }
   },
-  "yod_app": {
+  "yod_app_global": {
     "sys": {
       "border-radius": {
         "rounded": {
@@ -2345,7 +2345,7 @@
       }
     }
   },
-  "ish_app": {
+  "ish_app_global": {
     "sys": {
       "border-radius": {
         "rounded": {
@@ -2714,8 +2714,8 @@
       "yds-global-navigation",
       "yod",
       "ish",
-      "yod_app",
-      "ish_app",
+      "yod_app_global",
+      "ish_app_global",
       "yod-action",
       "yod-navigation"
     ]
