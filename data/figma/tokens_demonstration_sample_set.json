@@ -538,8 +538,8 @@
               "x": "0",
               "y": "0",
               "blur": "3",
-              "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "spread": "1",
+              "color": "rgba({ref.palette.static.black}, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -547,7 +547,7 @@
               "y": "0",
               "blur": "0",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0)",
+              "color": "rgba({ref.palette.static.black}, 0)",
               "type": "dropShadow"
             }
           ],
@@ -560,15 +560,15 @@
               "y": "1",
               "blur": "5",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.16)",
+              "color": "rgba({ref.palette.static.black}, 0.16)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "0",
-              "spread": "1",
-              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "blur": "1",
+              "spread": "",
+              "color": "rgba({ref.palette.static.black}, 0.20)",
               "type": "dropShadow"
             }
           ],
@@ -581,15 +581,15 @@
               "y": "0",
               "blur": "6",
               "spread": "2",
-              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "color": "rgba({ref.palette.static.black}, 0.12)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "1",
-              "spread": "3",
-              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "blur": "2",
+              "spread": "1",
+              "color": "rgba({ref.palette.static.black}, 0.08)",
               "type": "dropShadow"
             }
           ],
@@ -602,15 +602,15 @@
               "y": "0",
               "blur": "24",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "color": "rgba({ref.palette.static.black}, 0.08)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "1",
+              "blur": "4",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "color": "rgba({ref.palette.static.black}, 0.04)",
               "type": "dropShadow"
             }
           ],
@@ -623,15 +623,15 @@
               "y": "0",
               "blur": "48",
               "spread": "8",
-              "color": "rgba({sys.color.background.on-background}, 0.24)",
+              "color": "rgba({ref.palette.static.black}, 0.48)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "1",
-              "spread": "3",
-              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "blur": "4",
+              "spread": "0",
+              "color": "rgba({ref.palette.static.black}, 0.12)",
               "type": "dropShadow"
             }
           ],
@@ -1179,8 +1179,8 @@
               "x": "0",
               "y": "0",
               "blur": "3",
-              "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "spread": "1",
+              "color": "rgba({ref.palette.static.black}, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -1188,7 +1188,7 @@
               "y": "0",
               "blur": "0",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0)",
+              "color": "rgba({ref.palette.static.black}, 0)",
               "type": "dropShadow"
             }
           ],
@@ -1201,15 +1201,15 @@
               "y": "1",
               "blur": "5",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.16)",
+              "color": "rgba({ref.palette.static.black}, 0.16)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "0",
-              "spread": "1",
-              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "blur": "1",
+              "spread": "",
+              "color": "rgba({ref.palette.static.black}, 0.20)",
               "type": "dropShadow"
             }
           ],
@@ -1222,15 +1222,15 @@
               "y": "0",
               "blur": "6",
               "spread": "2",
-              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "color": "rgba({ref.palette.static.black}, 0.12)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "1",
-              "spread": "3",
-              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "blur": "2",
+              "spread": "1",
+              "color": "rgba({ref.palette.static.black}, 0.08)",
               "type": "dropShadow"
             }
           ],
@@ -1243,15 +1243,15 @@
               "y": "0",
               "blur": "24",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.08)",
+              "color": "rgba({ref.palette.static.black}, 0.08)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "1",
+              "blur": "4",
               "spread": "0",
-              "color": "rgba({sys.color.background.on-background}, 0.04)",
+              "color": "rgba({ref.palette.static.black}, 0.04)",
               "type": "dropShadow"
             }
           ],
@@ -1264,15 +1264,15 @@
               "y": "0",
               "blur": "48",
               "spread": "8",
-              "color": "rgba({sys.color.background.on-background}, 0.24)",
+              "color": "rgba({ref.palette.static.black}, 0.48)",
               "type": "dropShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "1",
-              "spread": "3",
-              "color": "rgba({sys.color.background.on-background}, 0.12)",
+              "blur": "4",
+              "spread": "0",
+              "color": "rgba({ref.palette.static.black}, 0.12)",
               "type": "dropShadow"
             }
           ],
