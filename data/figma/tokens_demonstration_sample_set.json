@@ -1930,13 +1930,23 @@
   "yds-global-navigation": {
     "comp": {
       "menu-row": {
-        "icon-label-size": {
-          "value": "{ref.sizing.600}",
-          "type": "sizing"
-        },
-        "gap-common": {
-          "value": "{ref.spacing.400}",
-          "type": "spacing"
+        "common-properties": {
+          "icon-label-size": {
+            "value": "{ref.sizing.500}",
+            "type": "sizing"
+          },
+          "gap": {
+            "value": "{ref.spacing.400}",
+            "type": "spacing"
+          },
+          "padding-horizontal": {
+            "value": "{ref.spacing.500}",
+            "type": "spacing"
+          },
+          "padding-vertical": {
+            "value": "{ref.spacing.400}",
+            "type": "spacing"
+          }
         },
         "text-label": {
           "value": {
@@ -1968,14 +1978,6 @@
         "chevron-color": {
           "value": "{ref.palette.gray.400}",
           "type": "color"
-        },
-        "padding-horizontal": {
-          "value": "{ref.spacing.500}",
-          "type": "spacing"
-        },
-        "padding-vertical": {
-          "value": "{ref.spacing.400}",
-          "type": "spacing"
         },
         "border-radius": {
           "value": "{sys.border-radius.small}",
