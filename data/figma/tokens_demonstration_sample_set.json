@@ -1983,24 +1983,28 @@
         }
       },
       "nav-drawer": {
-        "title": {
-          "value": {
-            "fontFamily": "{sys.font-family.primary}",
-            "fontWeight": "{sys.font-weight.regular}",
-            "lineHeight": "{sys.line-height.standard}",
-            "fontSize": "{ref.font-size.500}",
-            "letterSpacing": "{ref.letter-spacing.500}",
-            "paragraphSpacing": "{sys.paraspacing.regular}"
+        "top-level": {
+          "title": {
+            "value": {
+              "fontFamily": "{sys.font-family.primary}",
+              "fontWeight": "{sys.font-weight.regular}",
+              "lineHeight": "{sys.line-height.standard}",
+              "fontSize": "{ref.font-size.500}",
+              "letterSpacing": "{ref.letter-spacing.500}",
+              "paragraphSpacing": "{sys.paraspacing.regular}"
+            },
+            "type": "typography"
+          }
+        },
+        "common-properties": {
+          "title-color": {
+            "value": "{sys.color.background.on-background}",
+            "type": "color"
           },
-          "type": "typography"
-        },
-        "title-color": {
-          "value": "{sys.color.background.on-background}",
-          "type": "color"
-        },
-        "container-color": {
-          "value": "{sys.color.background.background}",
-          "type": "color"
+          "container-color": {
+            "value": "{sys.color.background.background}",
+            "type": "color"
+          }
         },
         "gap-common": {
           "value": "{ref.spacing.200}",
@@ -2025,6 +2029,19 @@
         "header-padding-horizontal": {
           "value": "{ref.spacing.500}",
           "type": "spacing"
+        },
+        "child-level": {
+          "title": {
+            "value": {
+              "fontFamily": "{sys.font-family.primary}",
+              "fontWeight": "{sys.font-weight.medium}",
+              "lineHeight": "{sys.line-height.standard}",
+              "fontSize": "{ref.font-size.200}",
+              "letterSpacing": "{ref.letter-spacing.200}",
+              "paragraphSpacing": "{sys.paraspacing.regular}"
+            },
+            "type": "typography"
+          }
         }
       }
     }
