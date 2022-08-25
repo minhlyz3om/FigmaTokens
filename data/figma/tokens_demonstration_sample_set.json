@@ -1939,7 +1939,11 @@
             "value": "{ref.spacing.400}",
             "type": "spacing"
           },
-          "item-label": {
+          "gap-none": {
+            "value": "{ref.spacing.100}",
+            "type": "spacing"
+          },
+          "title-label": {
             "value": {
               "fontFamily": "{sys.font-family.primary}",
               "fontWeight": "{sys.font-weight.medium}",
@@ -1989,8 +1993,23 @@
             },
             "type": "typography"
           },
+          "sub-title-label": {
+            "value": {
+              "fontFamily": "{sys.font-family.primary}",
+              "fontWeight": "{sys.font-weight.regular}",
+              "lineHeight": "{sys.line-height.standard}",
+              "fontSize": "{ref.font-size.100}",
+              "letterSpacing": "{ref.letter-spacing.100}",
+              "paragraphSpacing": "{sys.paraspacing.regular}"
+            },
+            "type": "typography"
+          },
           "info-label-color": {
             "value": "rgba({ref.palette.blue.400},1)",
+            "type": "color"
+          },
+          "sub-title-color": {
+            "value": "rgba({ref.palette.gray.500} , 1)",
             "type": "color"
           }
         },
