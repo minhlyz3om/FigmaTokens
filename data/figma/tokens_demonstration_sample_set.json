@@ -2011,11 +2011,11 @@
           "sub-title-color": {
             "value": "rgba({ref.palette.gray.500} , 1)",
             "type": "color"
+          },
+          "border-radius": {
+            "value": "{sys.border-radius.small}",
+            "type": "borderRadius"
           }
-        },
-        "border-radius": {
-          "value": "{sys.border-radius.small}",
-          "type": "borderRadius"
         }
       },
       "nav-drawer": {
@@ -2077,6 +2077,46 @@
               "paragraphSpacing": "{sys.paraspacing.regular}"
             },
             "type": "typography"
+          }
+        }
+      },
+      "navigation-destination": {
+        "common-properties": {
+          "min-size": {
+            "value": "{ref.sizing.800}",
+            "type": "sizing"
+          },
+          "icon-label-size": {
+            "value": "{ref.sizing.500}",
+            "type": "sizing"
+          },
+          "indicator-size": {
+            "value": "{ref.sizing.200}",
+            "type": "sizing"
+          },
+          "border-radius": {
+            "value": "{sys.border-radius.rounded}",
+            "type": "borderRadius"
+          }
+        },
+        "activated": {
+          "content-color": {
+            "value": "rgba({ref.palette.gray.50}, 1)",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "rgba({ref.palette.gray.1000}, 1)",
+            "type": "color"
+          }
+        },
+        "default": {
+          "content-color": {
+            "value": "rgba({ref.palette.gray.1000} ,1)",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "rgba({ref.palette.gray.50}, 0)",
+            "type": "color"
           }
         }
       }
