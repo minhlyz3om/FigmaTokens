@@ -1954,26 +1954,6 @@
             },
             "type": "typography"
           },
-          "content-color": {
-            "value": "{sys.color.background.on-background}",
-            "type": "color"
-          },
-          "container-color": {
-            "value": "{sys.color.background.background}",
-            "type": "color"
-          },
-          "disabled-content-color": {
-            "value": "{sys.color.disabled.on-disabled}",
-            "type": "color"
-          },
-          "disabled-container-color": {
-            "value": "{sys.color.disabled.disabled}",
-            "type": "color"
-          },
-          "chevron-color": {
-            "value": "{ref.palette.gray.400}",
-            "type": "color"
-          },
           "padding-horizontal": {
             "value": "{ref.spacing.500}",
             "type": "spacing"
@@ -2003,18 +1983,6 @@
               "paragraphSpacing": "{sys.paraspacing.regular}"
             },
             "type": "typography"
-          },
-          "info-label-color": {
-            "value": "rgba({ref.palette.blue.400},1)",
-            "type": "color"
-          },
-          "sub-title-color": {
-            "value": "rgba({ref.palette.gray.500} , 1)",
-            "type": "color"
-          },
-          "border-radius": {
-            "value": "{sys.border-radius.small}",
-            "type": "borderRadius"
           }
         }
       },
@@ -2033,14 +2001,6 @@
           }
         },
         "common-properties": {
-          "title-color": {
-            "value": "{sys.color.background.on-background}",
-            "type": "color"
-          },
-          "container-color": {
-            "value": "{sys.color.background.background}",
-            "type": "color"
-          },
           "gap": {
             "value": "{ref.spacing.200}",
             "type": "spacing"
@@ -2097,26 +2057,6 @@
           "border-radius": {
             "value": "{sys.border-radius.rounded}",
             "type": "borderRadius"
-          }
-        },
-        "activated": {
-          "content-color": {
-            "value": "rgba({ref.palette.gray.50}, 1)",
-            "type": "color"
-          },
-          "container-color": {
-            "value": "rgba({ref.palette.gray.1000}, 1)",
-            "type": "color"
-          }
-        },
-        "default": {
-          "content-color": {
-            "value": "rgba({ref.palette.gray.1000} ,1)",
-            "type": "color"
-          },
-          "container-color": {
-            "value": "rgba({ref.palette.gray.50}, 0)",
-            "type": "color"
           }
         }
       }
@@ -2716,25 +2656,41 @@
           },
           "type": "typography"
         },
-        "content-color": {
-          "value": "{sys.color.background.on-background}",
-          "type": "color"
+        "default": {
+          "content-color": {
+            "value": "{sys.color.background.on-background}",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "{sys.color.background.background}",
+            "type": "color"
+          },
+          "chevron-color": {
+            "value": "{ref.palette.gray.400}",
+            "type": "color"
+          },
+          "info-label-color": {
+            "value": "rgba({ref.palette.blue.400},1)",
+            "type": "color"
+          },
+          "sub-title-color": {
+            "value": "rgba({ref.palette.gray.500} , 1)",
+            "type": "color"
+          }
         },
-        "container-color": {
-          "value": "{sys.color.background.background}",
-          "type": "color"
+        "disabled": {
+          "content-color": {
+            "value": "{sys.color.disabled.on-disabled}",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "{sys.color.disabled.disabled}",
+            "type": "color"
+          }
         },
-        "disabled-content-color": {
-          "value": "{sys.color.disabled.on-disabled}",
-          "type": "color"
-        },
-        "disabled-container-color": {
-          "value": "{sys.color.disabled.disabled}",
-          "type": "color"
-        },
-        "chevron-color": {
-          "value": "{ref.palette.gray.400}",
-          "type": "color"
+        "border-radius": {
+          "value": "{sys.border-radius.small}",
+          "type": "borderRadius"
         },
         "padding-horizontal": {
           "value": "{ref.spacing.500}",
@@ -2743,10 +2699,6 @@
         "padding-vertical": {
           "value": "{ref.spacing.400}",
           "type": "spacing"
-        },
-        "border-radius": {
-          "value": "{sys.border-radius.small}",
-          "type": "borderRadius"
         }
       },
       "nav-drawer": {
@@ -2761,13 +2713,15 @@
           },
           "type": "typography"
         },
-        "title-color": {
-          "value": "{sys.color.background.on-background}",
-          "type": "color"
-        },
-        "container-color": {
-          "value": "{sys.color.background.background}",
-          "type": "color"
+        "default": {
+          "title-color": {
+            "value": "{sys.color.background.on-background}",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "{sys.color.background.background}",
+            "type": "color"
+          }
         },
         "gap-common": {
           "value": "{ref.spacing.200}",
@@ -2792,6 +2746,28 @@
         "header-padding-horizontal": {
           "value": "{ref.spacing.500}",
           "type": "spacing"
+        }
+      },
+      "navigation-destination": {
+        "activated": {
+          "content-color": {
+            "value": "rgba({ref.palette.gray.50}, 1)",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "rgba({ref.palette.gray.1000}, 1)",
+            "type": "color"
+          }
+        },
+        "default": {
+          "content-color": {
+            "value": "rgba({ref.palette.gray.1000} ,1)",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "rgba({ref.palette.gray.50}, 0)",
+            "type": "color"
+          }
         }
       }
     }
