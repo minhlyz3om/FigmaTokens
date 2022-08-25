@@ -2761,11 +2761,11 @@
         },
         "default": {
           "content-color": {
-            "value": "rgba({ref.palette.gray.1000} ,1)",
+            "value": "rgba({sys.color.background.on-background} ,1)",
             "type": "color"
           },
           "container-color": {
-            "value": "rgba({ref.palette.gray.50}, 0)",
+            "value": "rgba({sys.color.background.background}, 0)",
             "type": "color"
           }
         }
@@ -2774,6 +2774,10 @@
         "default": {
           "container-color": {
             "value": "rgba({sys.color.background.background}, 1)",
+            "type": "color"
+          },
+          "content-color": {
+            "value": "rgba({sys.color.background.on-background}, 1)",
             "type": "color"
           }
         }
