@@ -1935,11 +1935,11 @@
             "value": "{ref.sizing.500}",
             "type": "sizing"
           },
-          "gap": {
+          "gap-horizontal": {
             "value": "{ref.spacing.400}",
             "type": "spacing"
           },
-          "gap-none": {
+          "gap-vertical": {
             "value": "{ref.spacing.100}",
             "type": "spacing"
           },
