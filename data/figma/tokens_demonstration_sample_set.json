@@ -2715,11 +2715,11 @@
         },
         "default": {
           "title-color": {
-            "value": "{sys.color.background.on-background}",
+            "value": "rgba({sys.color.background.on-background},1)",
             "type": "color"
           },
           "container-color": {
-            "value": "{sys.color.background.background}",
+            "value": "rgba({sys.color.background.background},1)",
             "type": "color"
           }
         },
@@ -2751,11 +2751,11 @@
       "navigation-destination": {
         "activated": {
           "content-color": {
-            "value": "rgba({ref.palette.gray.50}, 1)",
+            "value": "rgba({sys.color.background.background}, 1)",
             "type": "color"
           },
           "container-color": {
-            "value": "rgba({ref.palette.gray.1000}, 1)",
+            "value": "rgba({sys.color.background.on-background}, 1)",
             "type": "color"
           }
         },
@@ -2766,6 +2766,14 @@
           },
           "container-color": {
             "value": "rgba({ref.palette.gray.50}, 0)",
+            "type": "color"
+          }
+        }
+      },
+      "header": {
+        "default": {
+          "container-color": {
+            "value": "rgba({sys.color.background.background}, 1)",
             "type": "color"
           }
         }
