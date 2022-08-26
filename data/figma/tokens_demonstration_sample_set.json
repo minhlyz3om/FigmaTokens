@@ -2059,6 +2059,18 @@
             "type": "borderRadius"
           }
         }
+      },
+      "header": {
+        "common-properties": {
+          "height": {
+            "value": "{ref.sizing.100} * 15",
+            "type": "sizing"
+          },
+          "utility-size": {
+            "value": "{ref.sizing.500}",
+            "type": "sizing"
+          }
+        }
       }
     }
   },
