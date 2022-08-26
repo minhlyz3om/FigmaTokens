@@ -1929,7 +1929,7 @@
   },
   "yds-global-navigation": {
     "comp": {
-      "menu-row": {
+      "nav-row": {
         "common-properties": {
           "icon-label-size": {
             "value": "{ref.sizing.500}",
@@ -2040,7 +2040,7 @@
           }
         }
       },
-      "navigation-destination": {
+      "nav-destination": {
         "common-properties": {
           "min-size": {
             "value": "{ref.sizing.800}",
@@ -2648,7 +2648,7 @@
   },
   "yod-navigation": {
     "comp": {
-      "menu-row": {
+      "nav-row": {
         "icon-label-size": {
           "value": "{ref.sizing.600}",
           "type": "sizing"
@@ -2656,17 +2656,6 @@
         "gap-common": {
           "value": "{ref.spacing.400}",
           "type": "spacing"
-        },
-        "text-label": {
-          "value": {
-            "fontFamily": "{sys.font-family.primary}",
-            "fontWeight": "{sys.font-weight.medium}",
-            "lineHeight": "{sys.line-height.standard}",
-            "fontSize": "{ref.font-size.200}",
-            "letterSpacing": "{ref.letter-spacing.200}",
-            "paragraphSpacing": "{sys.paraspacing.regular}"
-          },
-          "type": "typography"
         },
         "default": {
           "content-color": {
@@ -2700,10 +2689,6 @@
             "type": "color"
           }
         },
-        "border-radius": {
-          "value": "{sys.border-radius.small}",
-          "type": "borderRadius"
-        },
         "padding-horizontal": {
           "value": "{ref.spacing.500}",
           "type": "spacing"
@@ -2711,6 +2696,23 @@
         "padding-vertical": {
           "value": "{ref.spacing.400}",
           "type": "spacing"
+        }
+      },
+      "menu-row": {
+        "text-label": {
+          "value": {
+            "fontFamily": "{sys.font-family.primary}",
+            "fontWeight": "{sys.font-weight.medium}",
+            "lineHeight": "{sys.line-height.standard}",
+            "fontSize": "{ref.font-size.200}",
+            "letterSpacing": "{ref.letter-spacing.200}",
+            "paragraphSpacing": "{sys.paraspacing.regular}"
+          },
+          "type": "typography"
+        },
+        "border-radius": {
+          "value": "{sys.border-radius.small}",
+          "type": "borderRadius"
         }
       },
       "nav-drawer": {
@@ -2760,7 +2762,7 @@
           "type": "spacing"
         }
       },
-      "navigation-destination": {
+      "nav-destination": {
         "activated": {
           "content-color": {
             "value": "rgba({sys.color.background.background}, 1)",
