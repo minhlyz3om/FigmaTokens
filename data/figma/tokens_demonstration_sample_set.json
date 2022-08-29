@@ -2059,6 +2059,10 @@
           "border-radius": {
             "value": "{sys.border-radius.rounded}",
             "type": "borderRadius"
+          },
+          "indicator-border": {
+            "value": "2",
+            "type": "borderWidth"
           }
         }
       },
@@ -2773,6 +2777,14 @@
           "container-color": {
             "value": "rgba({sys.color.background.on-background}, 1)",
             "type": "color"
+          },
+          "indicator-border-color": {
+            "value": "rgba({ref.palette.gray.800}, 1)",
+            "type": "color"
+          },
+          "indicator-color": {
+            "value": "rgba({ref.palette.blue.300}, 1)",
+            "type": "color"
           }
         },
         "default": {
@@ -2782,6 +2794,32 @@
           },
           "container-color": {
             "value": "rgba({sys.color.background.background}, 0)",
+            "type": "color"
+          },
+          "indicator-border-color": {
+            "value": "rgba({ref.palette.gray.50}, 1)",
+            "type": "color"
+          },
+          "indicator-color": {
+            "value": "rgba({ref.palette.blue.300}, 1)",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "content-color": {
+            "value": "rgba({sys.color.disabled.on-disabled}, 1)",
+            "type": "color"
+          },
+          "container-color": {
+            "value": "rgba({sys.color.disabled.disabled}, 1)",
+            "type": "color"
+          },
+          "indicator-border-color": {
+            "value": "rgba({sys.color.disabled.on-disabled},1)",
+            "type": "color"
+          },
+          "indicator-color": {
+            "value": "rgba({sys.color.disabled.on-disabled},1)",
             "type": "color"
           }
         }
