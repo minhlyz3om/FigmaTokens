@@ -2683,14 +2683,6 @@
   "yod-navigation": {
     "comp": {
       "nav-row": {
-        "icon-label-size": {
-          "value": "{ref.sizing.600}",
-          "type": "sizing"
-        },
-        "gap-common": {
-          "value": "{ref.spacing.400}",
-          "type": "spacing"
-        },
         "default": {
           "content-color": {
             "value": "{sys.color.background.on-background}",
@@ -2722,45 +2714,9 @@
             "value": "{sys.color.disabled.disabled}",
             "type": "color"
           }
-        },
-        "padding-horizontal": {
-          "value": "{ref.spacing.500}",
-          "type": "spacing"
-        },
-        "padding-vertical": {
-          "value": "{ref.spacing.400}",
-          "type": "spacing"
-        }
-      },
-      "menu-row": {
-        "text-label": {
-          "value": {
-            "fontFamily": "{sys.font-family.primary}",
-            "fontWeight": "{sys.font-weight.medium}",
-            "lineHeight": "{sys.line-height.standard}",
-            "fontSize": "{ref.font-size.200}",
-            "letterSpacing": "{ref.letter-spacing.200}",
-            "paragraphSpacing": "{sys.paraspacing.regular}"
-          },
-          "type": "typography"
-        },
-        "border-radius": {
-          "value": "{sys.border-radius.small}",
-          "type": "borderRadius"
         }
       },
       "nav-drawer": {
-        "title": {
-          "value": {
-            "fontFamily": "{sys.font-family.primary}",
-            "fontWeight": "{sys.font-weight.regular}",
-            "lineHeight": "{sys.line-height.standard}",
-            "fontSize": "{ref.font-size.500}",
-            "letterSpacing": "{ref.letter-spacing.500}",
-            "paragraphSpacing": "{sys.paraspacing.regular}"
-          },
-          "type": "typography"
-        },
         "default": {
           "title-color": {
             "value": "rgba({sys.color.background.on-background},1)",
@@ -2770,30 +2726,6 @@
             "value": "rgba({sys.color.background.background},1)",
             "type": "color"
           }
-        },
-        "gap-common": {
-          "value": "{ref.spacing.200}",
-          "type": "spacing"
-        },
-        "padding-horizontal": {
-          "value": "{ref.spacing.300}",
-          "type": "spacing"
-        },
-        "padding-vertical": {
-          "value": "{ref.spacing.800}",
-          "type": "spacing"
-        },
-        "section-padding-vertical": {
-          "value": "{ref.spacing.600}",
-          "type": "spacing"
-        },
-        "header-padding-vertical": {
-          "value": "{ref.spacing.500}",
-          "type": "spacing"
-        },
-        "header-padding-horizontal": {
-          "value": "{ref.spacing.500}",
-          "type": "spacing"
         }
       },
       "nav-destination": {
