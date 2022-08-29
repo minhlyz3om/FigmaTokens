@@ -2819,7 +2819,7 @@
             "type": "color"
           },
           "indicator-color": {
-            "value": "rgba({sys.color.disabled.on-disabled},1)",
+            "value": "rgba({sys.color.disabled.disabled},1)",
             "type": "color"
           }
         }
