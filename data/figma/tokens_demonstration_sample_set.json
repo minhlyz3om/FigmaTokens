@@ -1935,13 +1935,15 @@
             "value": "{ref.sizing.500}",
             "type": "sizing"
           },
-          "gap-horizontal": {
-            "value": "{ref.spacing.400}",
-            "type": "spacing"
-          },
-          "gap-vertical": {
-            "value": "{ref.spacing.100}",
-            "type": "spacing"
+          "gap": {
+            "horizontal": {
+              "value": "{ref.spacing.400}",
+              "type": "spacing"
+            },
+            "vertical": {
+              "value": "{ref.spacing.100}",
+              "type": "spacing"
+            }
           },
           "title-label": {
             "value": {
@@ -1954,13 +1956,15 @@
             },
             "type": "typography"
           },
-          "padding-horizontal": {
-            "value": "{ref.spacing.500}",
-            "type": "spacing"
-          },
-          "padding-vertical": {
-            "value": "{ref.spacing.400}",
-            "type": "spacing"
+          "padding": {
+            "horizontal": {
+              "value": "{ref.spacing.500}",
+              "type": "spacing"
+            },
+            "vertical": {
+              "value": "{ref.spacing.400}",
+              "type": "spacing"
+            }
           },
           "info-label": {
             "value": {
@@ -2068,13 +2072,31 @@
       },
       "header": {
         "common-properties": {
-          "height": {
+          "min-height": {
             "value": "{ref.sizing.100} * 15",
             "type": "sizing"
           },
           "utility-size": {
             "value": "{ref.sizing.500}",
             "type": "sizing"
+          }
+        }
+      },
+      "nav-bar": {
+        "common-properties": {
+          "min-height": {
+            "value": "{ref.sizing.100} * 15",
+            "type": "sizing"
+          },
+          "padding": {
+            "horizontal": {
+              "value": "{ref.sizing.500}",
+              "type": "spacing"
+            },
+            "vertical": {
+              "value": "{ref.sizing.100}*3.5",
+              "type": "spacing"
+            }
           }
         }
       }
