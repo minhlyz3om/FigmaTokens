@@ -2067,6 +2067,12 @@
           "indicator-border": {
             "value": "2",
             "type": "borderWidth"
+          },
+          "padding": {
+            "horizontal": {
+              "value": "{ref.sizing.100}",
+              "type": "spacing"
+            }
           }
         }
       },
