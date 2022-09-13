@@ -2085,6 +2085,16 @@
           "utility-size": {
             "value": "{ref.sizing.500}",
             "type": "sizing"
+          },
+          "padding": {
+            "horizontal": {
+              "value": "{ref.sizing.500}",
+              "type": "spacing"
+            },
+            "vertical": {
+              "value": "{ref.sizing.400}",
+              "type": "spacing"
+            }
           }
         }
       },
