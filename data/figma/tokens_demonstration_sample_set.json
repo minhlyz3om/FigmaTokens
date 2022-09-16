@@ -2030,6 +2030,10 @@
               "value": "{ref.spacing.500}",
               "type": "spacing"
             }
+          },
+          "icon-label-size": {
+            "value": "{ref.sizing.500}",
+            "type": "sizing"
           }
         },
         "child-level": {
