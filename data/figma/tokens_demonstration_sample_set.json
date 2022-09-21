@@ -2809,6 +2809,14 @@
             "type": "color"
           }
         }
+      },
+      "nav-bar": {
+        "default": {
+          "container-color": {
+            "value": "rgba({sys.color.background.background},1)",
+            "type": "color"
+          }
+        }
       }
     }
   },
